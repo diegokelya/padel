@@ -9,3 +9,5 @@
 @media(max-width:760px){.shot-row{grid-template-columns:1fr}.watch-block{grid-template-columns:1fr;padding:24px}.shots,.faq{padding:9vh 6vw}}
 .shots .eyebrow,.faq .eyebrow{color:#4a6a00}
 section[id]{scroll-margin-top:84px}
+
+.cta-row{display:flex;flex-wrap:wrap;gap:14px;align-items:center}.ghost{color:white;text-decoration:none;font-weight:900;padding:16px 4px;border-bottom:2px solid var(--lime)}.nav nav a.nav-download{background:var(--ink);color:var(--lime);padding:10px 16px;border-radius:2px;font-weight:900}.nav nav a.nav-download:focus-visible{outline-color:var(--lime)}@media(max-width:700px){.nav nav a.nav-download{display:inline-block;padding:8px 12px}}
