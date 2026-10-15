@@ -34,6 +34,8 @@ const copy = {
     f8: 'Tus jugadas, en tu dispositivo', f8t: 'Sin cuentas, servidores ni publicidad. Los videos no salen del dispositivo salvo que los compartas.',
     shotsEyebrow: 'LA APP POR DENTRO', shotsTitle: 'Así se ve<br>en la cancha.',
     shotScore: 'Marcador a pantalla completa, con sets, juegos y puntos.', shotScoreAlt: 'Marcador de PlayBack Padel a pantalla completa: Equipo A 40, Equipo B 30, con los sets',
+    shotGestures: 'Tres gestos para manejar el partido sin tocar el celular.', shotGesturesAlt: 'Gestos de PlayBack Padel: señalar para sumar un punto, palma abierta para guardar la jugada y dos palmas para el VAR',
+    shotFeatures: 'VAR, highlight del día, compartir con marcador y sin cuentas.', shotFeaturesAlt: 'Funciones de PlayBack Padel: VAR en cámara lenta, highlight del día, compartir con marcador, sin cuentas ni internet',
     shotHistory: 'Historial de partidos con sus jugadas.', shotHistoryAlt: 'Historial de partidos de PlayBack Padel',
     watchTitle: 'También en tu muñeca', watchText: 'Con el Apple Watch sumás puntos, deshacés, guardás la jugada y abrís el VAR sin tocar el iPhone de la reja. Es opcional.',
     watch1Alt: 'Apple Watch con el puntaje 40–30 y los botones +1, deshacer, guardar jugada y VAR', watch2Alt: 'Apple Watch con el aviso para activar el puntaje en el iPhone', watch3Alt: 'Apple Watch con el aviso de partido terminado',
@@ -86,6 +88,8 @@ const copy = {
     f8: 'Your plays stay on your device', f8t: 'No accounts, servers or ads. Videos never leave the device unless you share them.',
     shotsEyebrow: 'INSIDE THE APP', shotsTitle: 'This is how it looks<br>on court.',
     shotScore: 'Full-screen scoreboard with sets, games and points.', shotScoreAlt: 'PlayBack Padel full-screen scoreboard: Team A 40, Team B 30, with the sets',
+    shotGestures: 'Three gestures to run the match without touching the phone.', shotGesturesAlt: 'PlayBack Padel gestures: point to score, open palm to save the play, two palms for VAR',
+    shotFeatures: 'VAR, highlight of the day, share with the score and no accounts.', shotFeaturesAlt: 'PlayBack Padel features: slow-motion VAR, highlight of the day, share with the score, no accounts or internet',
     shotHistory: 'Match history with its plays.', shotHistoryAlt: 'PlayBack Padel match history',
     watchTitle: 'On your wrist too', watchText: 'With the Apple Watch you add points, undo, save the play and open VAR without touching the iPhone on the fence. It is optional.',
     watch1Alt: 'Apple Watch showing the 40–30 score with +1, undo, save play and VAR buttons', watch2Alt: 'Apple Watch with the notice to turn scoring on on the iPhone', watch3Alt: 'Apple Watch with the match finished notice',
@@ -108,8 +112,8 @@ const copy = {
 
 // Screenshots differ by language only in their text, so each language names its own files.
 const shots = {
-  es: { marcador: 'iphone-es-01-marcador', historial: 'iphone-es-04-historial', watch1: 'watch-es-01-partido', watch2: 'watch-es-02-puntaje-apagado', watch3: 'watch-es-03-partido-terminado' },
-  en: { marcador: 'iphone-en-01-marcador', historial: 'iphone-en-04-historial', watch1: 'watch-en-01-match', watch2: 'watch-en-02-scoring-off', watch3: 'watch-en-03-match-finished' }
+  es: { scoreboard: 'slide-es-scoreboard', gestures: 'slide-es-gestures', features: 'slide-es-features', matches: 'slide-es-matches', watch1: 'watch-es-01-partido', watch2: 'watch-es-02-puntaje-apagado', watch3: 'watch-es-03-partido-terminado' },
+  en: { scoreboard: 'slide-en-scoreboard', gestures: 'slide-en-gestures', features: 'slide-en-features', matches: 'slide-en-matches', watch1: 'watch-en-01-match', watch2: 'watch-en-02-scoring-off', watch3: 'watch-en-03-match-finished' }
 };
 
 const store = {
