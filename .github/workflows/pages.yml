@@ -31,6 +31,8 @@ jobs:
           cp support/index.html support/en.html _site/support/
           cp privacy/index.html privacy/en.html _site/privacy/
           cp assets/logo-128.png assets/logo-128.webp assets/apple-touch-icon.png assets/og-image.png _site/assets/
+          # The demo video and its posters are set by app.js, so the check below does not see them.
+          cp assets/demo-es.mp4 assets/demo-en.mp4 assets/demo-poster-es.webp assets/demo-poster-en.webp _site/assets/
           mkdir -p _site/assets/shots
           cp assets/shots/*.webp _site/assets/shots/
           # Fail if a page references a local file that was not published.
