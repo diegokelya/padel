@@ -32,6 +32,7 @@ const copy = {
     f12: 'Rally largo (beta)', f12t: 'Mira la cancha con la cámara y guarda solo los rallies de más de 8 segundos, desde que empiezan hasta que terminan.',
     f13: 'Highlight del partido o del día', f13t: 'Un video de hasta 1 minuto con tus mejores jugadas, solo con juego (la app escucha los golpes) y con el marcador de cada una. El del día revisa todos tus partidos. Queda guardado en la app para verlo o compartirlo.',
     f8: 'Tus jugadas, en tu dispositivo', f8t: 'Sin cuentas, servidores ni publicidad. Los videos no salen del dispositivo salvo que los compartas.',
+    demoEyebrow: 'MIRÁ CÓMO FUNCIONA', demoTitle: 'Todo en<br>30 segundos.', demoNote: 'Ilustración con datos de ejemplo.', demoAria: 'Video de demostración de PlayBack Padel: guardar una jugada con la palma, sumar puntos apuntando, VAR en cámara lenta y highlight del día',
     shotsEyebrow: 'LA APP POR DENTRO', shotsTitle: 'Así se ve<br>en la cancha.',
     shotScore: 'Marcador a pantalla completa, con sets, juegos y puntos.', shotScoreAlt: 'Marcador de PlayBack Padel a pantalla completa: Equipo A 40, Equipo B 30, con los sets',
     shotGestures: 'Tres gestos para manejar el partido sin tocar el celular.', shotGesturesAlt: 'Gestos de PlayBack Padel: señalar para sumar un punto, palma abierta para guardar la jugada y dos palmas para el VAR',
@@ -86,6 +87,7 @@ const copy = {
     f12: 'Long rally (beta)', f12t: 'It watches the court with the camera and saves only rallies longer than 8 seconds, from start to end.',
     f13: 'Match or day highlight', f13t: 'A video of up to 1 minute with your best plays, only with game action (the app listens for the hits) and each with its score. The day one reviews all your matches. It stays saved in the app to watch or share.',
     f8: 'Your plays stay on your device', f8t: 'No accounts, servers or ads. Videos never leave the device unless you share them.',
+    demoEyebrow: 'SEE HOW IT WORKS', demoTitle: 'Everything in<br>30 seconds.', demoNote: 'Illustration with sample data.', demoAria: 'PlayBack Padel demo video: save a play with your palm, score by pointing, slow-motion VAR and the highlight of the day',
     shotsEyebrow: 'INSIDE THE APP', shotsTitle: 'This is how it looks<br>on court.',
     shotScore: 'Full-screen scoreboard with sets, games and points.', shotScoreAlt: 'PlayBack Padel full-screen scoreboard: Team A 40, Team B 30, with the sets',
     shotGestures: 'Three gestures to run the match without touching the phone.', shotGesturesAlt: 'PlayBack Padel gestures: point to score, open palm to save the play, two palms for VAR',
@@ -139,6 +141,12 @@ function render() {
   document.querySelector('meta[name="description"]').setAttribute('content', text.description);
   document.querySelectorAll('[data-i18n]').forEach(el => { el.innerHTML = text[el.dataset.i18n]; });
   document.querySelectorAll('[data-shot]').forEach(img => { img.src = `assets/shots/${shots[lang][img.dataset.shot]}.webp`; });
+  const demo = document.getElementById('demo-video');
+  if (demo) {
+    const src = `assets/demo-${lang}.mp4`;
+    // Changing the source of a playing video would restart it for nothing: only swap when the language changed.
+    if (!demo.getAttribute('src') || !demo.getAttribute('src').endsWith(`demo-${lang}.mp4`)) { demo.setAttribute('src', src); demo.setAttribute('poster', `assets/demo-poster-${lang}.webp`); }
+  }
   document.querySelectorAll('[data-i18n-alt]').forEach(img => img.setAttribute('alt', text[img.dataset.i18nAlt]));
   document.querySelectorAll('[data-i18n-aria]').forEach(el => el.setAttribute('aria-label', text[el.dataset.i18nAria]));
   document.getElementById('support-link').href = text.supportUrl;
