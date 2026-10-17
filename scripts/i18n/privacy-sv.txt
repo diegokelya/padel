@@ -1,0 +1,25 @@
+0 INTEGRITET
+1 Integritetspolicy
+2 Senast uppdaterad: 17 oktober 2026.
+3 Sammanfattning
+4 PlayBack Padel har inga konton, ingen egen server, ingen analys, ingen reklam, ingen spårning och inga köp i appen. Utvecklaren tar inte emot dina videor, ditt ljud, dina namn eller dina ställningar.
+5 Data som appen använder
+6 <b>Kamera:</b> filmar banan och känner igen din hand för att spara klipp och hålla ställningen. Om du slår på <b>Spara långa rallyn · beta</b> mäter den också hur mycket bildens mitt rör sig för att upptäcka ett långt rally. Analysen sker på enheten och sparas eller skickas aldrig.
+7 <b>Mikrofon (valfritt):</b> tar med matchens ljud i dina klipp. När du skapar höjdpunkter lyssnar appen också på ljudet i dina sparade klipp, på enheten, för att hitta spelets slag; den analysen sparas eller skickas inte.
+8 <b>AI på enheten (valfritt):</b> på enheter med Apple Intelligence kan höjdpunkterna använda enhetens språkmodell för att välja klipp. Den får bara uppgifter som tid, ställning och längd för varje klipp, aldrig videon eller ljudet, och allt sker på din enhet. Du kan stänga av den i Inställningar.
+9 <b>Bilder, endast lägga till (valfritt):</b> kopierar bara de klipp du väljer till Bilder.
+10 <b>Apple Watch (valfritt):</b> om du använder klockappen skickar iPhone ställningen och lagnamnen till den, och klockan skickar kommandon (räkna en poäng, ångra, spara ett klipp, VAR). Det går direkt mellan din iPhone och din klocka, utan internet och utan server.
+11 <b>Lokalt nätverk (valfritt):</b> ansluter två enheter i närheten för att visa ställningen.
+12 Lagring
+13 Videor, spelarnamn, ställningar, matchhistorik och dess klipp lagras lokalt på din iPhone eller iPad. Du kan ta bort klipp, matcher eller appen när som helst. Om du tar bort ett klipp försvinner också dess ställning; kopior i Bilder finns kvar.
+14 Delad ställning
+15 Om du slår på <b>Sänd ställningen till enheter i närheten</b> skickar din enhet bara spelarnamnen och ställningen till en annan enhet i närheten som använder samma matchkod. Anslutningen är direkt mellan enheterna via Wi-Fi eller Bluetooth, utan internet och utan server; meddelandena är krypterade och signerade. Ingen video eller något ljud skickas.
+16 Delning
+17 En video lämnar bara enheten om du väljer att dela den eller kopiera den till Bilder.
+18 Barn
+19 Appen samlar inte in personuppgifter från någon användare, inte heller från barn.
+20 Behörigheter
+21 Du kan ändra behörigheterna för Kamera, Mikrofon, Bilder och Lokalt nätverk i iOS Inställningar.
+22 Ändringar och kontakt
+23 Om den här policyn ändras uppdateras den här med ett nytt datum. För frågor, skapa ett ärende på <a href="https://github.com/diegokelya/playback-padel-site/issues">GitHub</a>, utan att ange personuppgifter.
+24 <a href="../support/en.html">Tillbaka till support</a>

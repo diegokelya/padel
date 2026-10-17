@@ -1,0 +1,67 @@
+0 SUPPORT
+1 Zo gebruik je PlayBack Padel
+2 PlayBack Padel houdt een doorlopende lus van de laatste 15, 30 of 60 seconden van je wedstrijd bij en bewaart het fragment met een handgebaar. Het werkt op iPhone en iPad, zonder account en zonder internetverbinding.
+3 Aan de slag
+4 Download PlayBack Padel uit de App Store en open de app.
+5 Sta toegang tot de <b>Camera</b> toe en, als je geluid in je fragmenten wilt, tot de <b>Microfoon</b>.
+6 Zet het apparaat horizontaal neer, gericht op de baan, en wacht tot de buffer gevuld is.
+7 Kies bij <b>Bediening</b> de spelers, de camera, het videoformaat en de lengte van de lus.
+8 Gebaren
+9 De richtingen worden gelezen zoals ze op het scherm verschijnen: de linkerkolom is team A en de rechterkolom is team B. Houd het gebaar een seconde vast (elk gebaar vraagt hetzelfde) en laat je hand zakken voordat je het herhaalt.
+10 <b>👈 Punt team A:</b> wijs naar links met je wijsvinger of racket.
+11 <b>👉 Punt team B:</b> wijs naar rechts.
+12 <b>👇 Ongedaan maken:</b> wijs naar beneden om het laatste punt te corrigeren.
+13 <b>🖐 Een fragment bewaren:</b> toon een seconde je open handpalm met gespreide vingers. De stand verandert niet.
+14 <b>🖐 🖐 VAR:</b> toon een seconde twee open handpalmen met ruimte ertussen.
+15 Om met gebaren te tellen, zet je in Instellingen <b>Tellen met gebaren · experimenteel</b> aan en wijs je op maximaal 1,5 m van de camera. Je kunt ook punten toevoegen en ongedaan maken met de knoppen van het scorebord.
+16 <b>Tellen in twee stappen:</b> zodat een toevallige beweging geen punten telt, wijs je eerst (dat maakt het punt alleen klaar) en toon je daarna een seconde je open handpalm, binnen de volgende 5 seconden. Als je niet bevestigt, gebeurt er niets. Je kunt het uitzetten in Instellingen → <b>Bevestig met de handpalm</b>.
+17 Zolang <b>Fragmenten</b> of <b>Wedstrijden</b> open zijn, staan de gebaren op pauze: een hand bij de telefoon telt geen punten en bewaart geen fragmenten.
+18 Scorebord
+19 Het scorebord speelt wedstrijden over de beste van drie sets en telt de games automatisch. Bij 6–6 wordt een tie-break tot 7 punten gespeeld, met twee punten verschil. Bij Bediening kun je het <b>Golden point</b> aanzetten: het punt bij 40–40 beslist het game; uitgezet wordt er met voordeel gespeeld. De teamkleuren kies je bij <b>Bediening → Spelers</b>.
+20 VAR
+21 Toon beide handpalmen of tik op <b>VAR</b>. De herhaling van de laatste 15 s, 30 s of 1 minuut (volgens je instelling) opent in slow motion op ½×, met opties voor 1× en ¼× en beeld voor beeld. Tik twee keer om in te zoomen precies waar je wilt kijken. Je kunt VAR ook openen op een bewaard fragment. VAR bewerkt of verwijdert je video's nooit.
+22 Bewaarde fragmenten
+23 Elke VAR wordt vanzelf als fragment bewaard, met het label <b>VAR</b>, en gekoppeld aan de lopende wedstrijd. Open <b>Fragmenten</b> (dat kan terwijl de camera draait) om te bekijken (op volledig scherm), te delen, naar Foto's te kopiëren, de stand van het fragment te wijzigen en te verwijderen. In de speler verbergt de oogknop de stand. <b>Delen</b> biedt de video zoals hij is of <b>met de stand</b> in de hoek getekend. Als je een fragment verwijdert, verdwijnt ook zijn stand; kopieën die je in Foto's hebt gemaakt blijven staan.
+24 Melding bij het bewaren
+25 Als een fragment wordt bewaard, verschijnt bovenaan het camerascherm een grote melding: “Fragment wordt bewaard…” en daarna “Fragment bewaard” in het groen (of “Het fragment is niet bewaard” in het rood). Je kunt hem van een paar meter afstand lezen, met de telefoon aan het hek.
+26 Lange rally · bèta
+27 Zet <b>Lange rally's bewaren · bèta</b> aan in Instellingen en de app bekijkt de baan met de camera. Als er langer dan 8 seconden veel ononderbroken beweging is, bewaart hij het hele fragment als het afgelopen is: <b>vanaf het moment dat hij het begin van de beweging detecteert tot het einde</b>, met het label <b>RALLY</b>. Hij meet alleen het midden van het beeld, dus andere banen brengen hem niet in de war, en hij negeert korte bewegingen en iemand die loopt. Naast “Lus actief” zie je live “Geen beweging”, “Beweging · N s” of “Rally · N s”. Hij gebruikt de microfoon niet en kan fout gaan bij veel mensen in beweging of wind die tegen de camera staat.
+28 Highlight
+29 In de details van een wedstrijd <b>Highlight maken</b>; en bij <b>Fragmenten</b> de knop met de tv-sterren voor de <b>highlight van de dag</b>, die alle fragmenten van die dag doorloopt, uit alle wedstrijden. De app maakt een video van maximaal 1 minuut met de beste fragmenten, in de volgorde waarin ze zijn gespeeld en met de stand van elk. Alleen echt spel komt erin: hij luistert op het apparaat naar het geluid van elk fragment om de slagen te vinden, en laat mensen die rondlopen of een lege baan weg. Hij geeft de voorkeur aan de beste actie, de punten waar meer van afhangt (golden point, tie-break, setpunt) en je <b>favorieten</b> (de ster in de speler). Op apparaten met Apple Intelligence kan hij de AI op het apparaat gebruiken om fragmenten te kiezen en te ordenen; er wordt niets naar buiten gestuurd en je kunt hem uitzetten in Instellingen → Geavanceerd. Met weinig fragmenten wordt de video korter. Hij wordt <b>bewaard in Fragmenten met het label HIGHLIGHT</b>, je kunt hem altijd bekijken en delen of in Foto's bewaren. De originele fragmenten blijven onaangeroerd.
+30 Wedstrijdgeschiedenis
+31 Als een wedstrijd eindigt, of als je een nieuwe begint terwijl de vorige niet af is, wordt hij bewaard met de teams, de stand per set en de datum. Open hem via Bediening → <b>Wedstrijden</b>. Elke wedstrijd toont zijn fragmenten: tik op een fragment om het te bekijken. Je kunt wedstrijden een voor een of allemaal tegelijk verwijderen. Als je het winnende punt ongedaan maakt, loopt de wedstrijd weer en wordt hij opnieuw bewaard als hij eindigt.
+32 Wie serveert
+33 Kies in het ⋯-menu van het scorebord <b>Wie serveert eerst?</b>. Vanaf dan toont een bal bij elk punt wie er serveert: de service wisselt elk game van team, wisselt tussen de partners en volgt de tie-break. Hij wordt uit de stand berekend, dus als je een punt ongedaan maakt komt hij vanzelf terug. Hij verschijnt ook op de Apple Watch.
+34 Apple Watch
+35 De klok-app (watchOS 10 of nieuwer) installeer je via de Watch-app op de iPhone. Hij toont de stand en laat je vanaf je pols <b>punten toevoegen, ongedaan maken, een fragment bewaren en VAR openen</b>. De puntknoppen vragen om tellen met gebaren aan; een fragment bewaren en VAR vragen om een draaiende camera. Als je op <b>Fragment opslaan</b> of <b>VAR</b> tikt, toont de klok “Bewaren…” en daarna “Fragment bewaard” of “VAR klaar op de iPhone”, met een trilling. Als het niet lukt, staat er “Het is niet gelukt”. Als de klok “iPhone niet bereikbaar” zegt, houd je hem dichter bij de iPhone en open je de app.
+36 Stand op twee apparaten
+37 Zet <b>Stand uitzenden naar apparaten in de buurt</b> aan op beide apparaten en typ dezelfde wedstrijdcode van 4 cijfers. Ze vinden elkaar via wifi of Bluetooth, zonder internet. De eerste keer vraagt iOS om toestemming voor <b>Lokaal netwerk</b>. Het apparaat dat de stand bijhoudt, heeft de leiding.
+38 Taal
+39 De app gebruikt de taal van je telefoon: Spaans, Engels, Italiaans, Portugees, Duits, Frans, Zweeds of Nederlands (anders Spaans). Je kunt een andere kiezen bij <b>Instellingen → Taal</b>, of in de Instellingen van de iPhone → PlayBack Padel → Taal.
+40 Toestemmingen
+41 Toestemming
+42 Waarvoor
+43 Vereist?
+44 Camera
+45 De baan opnemen en gebaren herkennen
+46 Ja
+47 Microfoon
+48 Geluid in je fragmenten
+49 Nee
+50 Foto's (alleen toevoegen)
+51 Fragmenten naar Foto's kopiëren als je erom vraagt
+52 Nee
+53 Lokaal netwerk
+54 Gedeelde stand met een ander apparaat
+55 Nee
+56 Je kunt ze wijzigen bij <b>Instellingen → PlayBack Padel</b>. De meldingen van de app hebben een knop die je daarheen brengt.
+57 Problemen oplossen
+58 De gebaren worden niet herkend
+59 Controleer of het apparaat horizontaal staat, er goed licht is, je hand binnen 1,5 m is en volledig zichtbaar. Met een racket moeten elleboog en pols zichtbaar zijn.
+60 De camera is gestopt
+61 Een gesprek of een andere app die de camera gebruikt onderbreekt hem; hij hervat vanzelf als je terugkomt. Zo niet, pauzeer dan en start opnieuw. Een ander videoformaat of een andere camera start de buffer opnieuw.
+62 De gedeelde stand maakt geen verbinding
+63 Controleer of beide apparaten dezelfde code gebruiken, toestemming voor Lokaal netwerk hebben en wifi of Bluetooth aan staat.
+64 Contact
+65 Voor vragen, fouten of suggesties open je een issue op <a href="https://github.com/diegokelya/playback-padel-site/issues">GitHub</a>. Die pagina is openbaar: vermeld geen persoonsgegevens of video's.
+66 Privacybeleid: <a href="../privacy/en.html">lezen</a>.

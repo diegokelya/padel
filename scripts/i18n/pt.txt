@@ -1,0 +1,96 @@
+0 PlayBack Padel — Seu melhor ponto, sempre pronto
+1 O PlayBack Padel transforma seu iPhone ou iPad em uma câmera de replays de padel: salve a jogada com um gesto, reveja em VAR em câmera lenta e acompanhe o placar da partida.
+2 Ir para o conteúdo
+5 Gestos
+6 Funções
+7 Baixar
+8 REPLAYS E PLACAR AO VIVO
+9 Seu melhor ponto.<br><em>Um gesto</em> para salvá-lo.
+10 O PlayBack Padel transforma um iPhone em uma câmera de replays e placar ao vivo para a sua partida.
+11 Baixar grátis
+12 Veja como funciona
+13 Placar de exemplo: Equipe A 40, Equipe B 30, jogada salva
+14 EQUIPE A
+15 EQUIPE B
+16 JOGADA SALVA
+17 Sem acessórios nem assinaturas. Só a partida, suas melhores jogadas e um placar que todos podem ver.
+18 CONTROLE A PARTIDA
+19 Os gestos se entendem<br>num relance.
+20 Ponto da Equipe A
+21 Aponte para a esquerda por um segundo e confirme com a palma.
+22 Desfazer
+23 Aponte para baixo e confirme com a palma para corrigir o último ponto.
+24 Ponto da Equipe B
+25 Aponte para a direita por um segundo e confirme com a palma.
+26 Salvar uma jogada
+27 Mostre a palma aberta por um segundo.
+28 Ativar o VAR
+29 Duas palmas separadas, mantidas por um segundo, abrem o replay em câmera lenta.
+30 FEITO PARA A QUADRA
+31 Tudo o que você precisa<br>entre um ponto e outro.
+32 Replay instantâneo
+33 Salve os últimos 15, 30 ou 60 segundos sem parar a câmera.
+34 VAR em câmera lenta
+35 Reveja a jogada a ½×, ¼× ou quadro a quadro. Toque duas vezes para ampliar onde quiser.
+36 VAR nas jogadas salvas
+37 Todo VAR é salvo como jogada, com a sua própria etiqueta. Abra de novo em qualquer jogada, começando um instante antes do que você estava vendo.
+38 Placar completo da partida
+39 Sets, games, tie-break em 6–6 e ponto de ouro opcional. Marque ou desfaça com gestos ou com um botão.
+40 Histórico de partidas
+41 Cada partida é salva com o placar por set, a data e as suas jogadas. Veja como foi e apague o que quiser.
+42 Placar em dois dispositivos
+43 Mostre o placar em outro iPhone ou iPad por perto, sem internet, com um código de partida.
+44 Para iPhone e iPad
+45 O app também funciona no iPad, em tela cheia e na horizontal.
+46 Apple Watch
+47 Marque pontos, desfaça, salve a jogada e abra o VAR direto do pulso, com o placar no relógio.
+48 Quem saca
+49 O placar mostra quem saca a cada ponto: muda sozinho a cada game e acompanha o tie-break.
+50 Compartilhar com o placar
+51 Envie uma jogada com o placar desenhado no canto, pronta para o WhatsApp. O original não é alterado.
+52 Rally longo (beta)
+53 Observa a quadra com a câmera e salva só os rallies de mais de 8 segundos, do início ao fim.
+54 Highlight da partida ou do dia
+55 Um vídeo de até 1 minuto com as suas melhores jogadas, só com jogo de verdade (o app escuta as batidas) e cada uma com o seu placar. O do dia revisa todas as suas partidas. Fica salvo no app para assistir ou compartilhar.
+56 Suas jogadas ficam no seu dispositivo
+57 Sem contas, servidores nem anúncios. Os vídeos nunca saem do dispositivo, a menos que você os compartilhe.
+58 VEJA COMO FUNCIONA
+59 Tudo em<br>40 segundos.
+60 Ilustração com dados de exemplo.
+61 Vídeo de demonstração do PlayBack Padel: salvar uma jogada com a palma, marcar pontos apontando, VAR em câmera lenta e highlight do dia
+62 O APP POR DENTRO
+63 Assim ele aparece<br>na quadra.
+64 Placar em tela cheia com sets, games e pontos.
+65 Placar em tela cheia do PlayBack Padel: Equipe A 40, Equipe B 30, com os sets
+66 Três gestos para comandar a partida sem tocar no celular.
+67 Gestos do PlayBack Padel: apontar para marcar, palma aberta para salvar a jogada, duas palmas para o VAR
+68 VAR, highlight do dia, compartilhar com o placar e sem contas.
+69 Funções do PlayBack Padel: VAR em câmera lenta, highlight do dia, compartilhar com o placar, sem contas nem internet
+70 Histórico de partidas com as suas jogadas.
+71 Histórico de partidas do PlayBack Padel
+72 Também no seu pulso
+73 Com o Apple Watch você marca pontos, desfaz, salva a jogada e abre o VAR sem tocar no iPhone preso na grade. É opcional.
+74 Apple Watch mostrando o placar 40–30 com os botões +1, desfazer, salvar jogada e VAR
+75 Apple Watch com o aviso para ativar o placar no iPhone
+76 Apple Watch com o aviso de partida encerrada
+77 Capturas de tela com dados de exemplo.
+78 PERGUNTAS FREQUENTES
+79 O que quase<br>todo mundo pergunta.
+80 Preciso de internet?
+81 Não. Tudo roda no dispositivo. O placar compartilhado entre dois iPhones ou iPads usa Wi-Fi ou Bluetooth, sem internet.
+82 A que distância os gestos funcionam?
+83 Até cerca de 1,5 metro da câmera. Para jogar mais longe existem os botões do placar e o Apple Watch.
+84 Preciso de um Apple Watch?
+85 Não. Os gestos e os botões da tela bastam. O relógio é um extra para comandar a partida do pulso.
+86 Quanto vídeo ele guarda?
+87 Mantém um ciclo dos últimos 15, 30 ou 60 segundos, à sua escolha. Um vídeo só é salvo quando você mostra a palma, toca em Salvar jogada ou, se você ativar, quando um rally longo termina.
+88 Meus vídeos vão para algum lugar?
+89 Não. Não há contas nem servidores: vídeos, nomes e placares ficam no seu dispositivo e só saem se você compartilhar.
+90 O que preciso para usar?
+91 Um iPhone ou iPad com iOS 17 ou superior. Para o relógio, um Apple Watch com watchOS 10 ou superior.
+92 JÁ DISPONÍVEL
+93 O PlayBack Padel<br>já está na quadra.
+94 Baixe grátis na App Store para iPhone e iPad.
+95 Baixar na App Store
+96 Suporte
+97 Privacidade

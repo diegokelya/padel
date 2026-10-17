@@ -1,0 +1,25 @@
+0 PRIVACIDADE
+1 Política de privacidade
+2 Última atualização: 17 de outubro de 2026.
+3 Resumo
+4 O PlayBack Padel não tem contas, nem servidor próprio, nem análises, nem publicidade, nem rastreamento e nem compras no app. O desenvolvedor não recebe os seus vídeos, o seu áudio, os seus nomes nem os seus placares.
+5 Dados que o app usa
+6 <b>Câmera:</b> filma a quadra e detecta a sua mão para salvar jogadas e manter o placar. Se você ativar <b>Salvar rallies longos · beta</b>, também mede o quanto o centro da imagem se mexe para detectar um rally longo. A análise acontece no dispositivo e nunca é guardada nem enviada.
+7 <b>Microfone (opcional):</b> inclui o som da partida nas suas jogadas. Ao montar um highlight, o app também escuta o som das suas jogadas salvas, no dispositivo, para encontrar as batidas do jogo; essa análise não é guardada nem enviada.
+8 <b>IA no dispositivo (opcional):</b> em dispositivos com Apple Intelligence, o highlight pode usar o modelo de linguagem do dispositivo para escolher jogadas. Ele recebe apenas dados como a hora, o placar e a duração de cada jogada, nunca o vídeo nem o áudio, e tudo acontece no seu dispositivo. Dá para desativar em Ajustes.
+9 <b>Fotos, só adicionar (opcional):</b> copia para Fotos apenas as jogadas que você escolher.
+10 <b>Apple Watch (opcional):</b> se você usa o app do relógio, o iPhone envia a ele o placar e os nomes das equipes, e o relógio envia comandos (marcar um ponto, desfazer, salvar uma jogada, VAR). Tudo viaja direto entre o seu iPhone e o seu relógio, sem internet e sem servidor.
+11 <b>Rede local (opcional):</b> conecta dois dispositivos próximos para mostrar o placar.
+12 Armazenamento
+13 Vídeos, nomes dos jogadores, placares, histórico de partidas e as suas jogadas ficam guardados localmente no seu iPhone ou iPad. Você pode excluir jogadas, partidas ou o app a qualquer momento. Excluir uma jogada também remove o placar dela; as cópias em Fotos permanecem.
+14 Placar compartilhado
+15 Se você ativar <b>Transmitir placar para perto</b>, o seu dispositivo envia apenas os nomes dos jogadores e o placar para outro dispositivo próximo que use o mesmo código de partida. A conexão é direta entre os dispositivos por Wi-Fi ou Bluetooth, sem internet e sem servidor; as mensagens são criptografadas e assinadas. Nenhum vídeo nem áudio é enviado.
+16 Compartilhamento
+17 Um vídeo só sai do dispositivo se você escolher compartilhá-lo ou copiá-lo para Fotos.
+18 Crianças
+19 O app não coleta dados pessoais de nenhum usuário, inclusive crianças.
+20 Permissões
+21 Você pode alterar as permissões de Câmera, Microfone, Fotos e Rede Local nos Ajustes do iOS.
+22 Alterações e contato
+23 Se esta política mudar, ela será atualizada aqui com uma nova data. Para dúvidas, abra uma issue no <a href="https://github.com/diegokelya/playback-padel-site/issues">GitHub</a>, sem incluir dados pessoais.
+24 <a href="../support/en.html">Voltar ao suporte</a>

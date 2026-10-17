@@ -1,0 +1,25 @@
+0 PRIVACY
+1 Privacybeleid
+2 Laatst bijgewerkt: 17 oktober 2026.
+3 Samenvatting
+4 PlayBack Padel heeft geen accounts, geen eigen server, geen analyse, geen advertenties, geen tracking en geen aankopen in de app. De ontwikkelaar ontvangt je video's, je geluid, je namen of je standen niet.
+5 Gegevens die de app gebruikt
+6 <b>Camera:</b> filmt de baan en herkent je hand om fragmenten te bewaren en de stand bij te houden. Als je <b>Lange rally's bewaren · bèta</b> aanzet, meet de camera ook hoeveel het midden van het beeld beweegt om een lange rally te detecteren. De analyse gebeurt op het apparaat en wordt nooit opgeslagen of verstuurd.
+7 <b>Microfoon (optioneel):</b> neemt het geluid van de wedstrijd op in je fragmenten. Als je een highlight maakt, luistert de app ook op het apparaat naar het geluid van je bewaarde fragmenten om de slagen van het spel te vinden; die analyse wordt niet opgeslagen of verstuurd.
+8 <b>AI op het apparaat (optioneel):</b> op apparaten met Apple Intelligence kan de highlight het taalmodel van het apparaat gebruiken om fragmenten te kiezen. Het ontvangt alleen gegevens zoals de tijd, de stand en de lengte van elk fragment, nooit de video of het geluid, en alles gebeurt op je apparaat. Je kunt het uitzetten in Instellingen.
+9 <b>Foto's, alleen toevoegen (optioneel):</b> kopieert alleen de fragmenten die jij kiest naar Foto's.
+10 <b>Apple Watch (optioneel):</b> als je de klok-app gebruikt, stuurt de iPhone de stand en de teamnamen naar de klok, en de klok stuurt opdrachten (een punt toevoegen, ongedaan maken, een fragment bewaren, VAR). Dat gaat rechtstreeks tussen je iPhone en je klok, zonder internet en zonder server.
+11 <b>Lokaal netwerk (optioneel):</b> verbindt twee apparaten in de buurt om de stand te tonen.
+12 Opslag
+13 Video's, spelersnamen, standen, de wedstrijdgeschiedenis en de bijbehorende fragmenten worden lokaal op je iPhone of iPad opgeslagen. Je kunt fragmenten, wedstrijden of de app op elk moment verwijderen. Als je een fragment verwijdert, verdwijnt ook zijn stand; kopieën in Foto's blijven staan.
+14 Gedeelde stand
+15 Als je <b>Stand uitzenden naar apparaten in de buurt</b> aanzet, stuurt je apparaat alleen de spelersnamen en de stand naar een ander apparaat in de buurt dat dezelfde wedstrijdcode gebruikt. De verbinding is rechtstreeks tussen de apparaten via wifi of Bluetooth, zonder internet en zonder server; de berichten zijn versleuteld en ondertekend. Er wordt geen video of geluid verstuurd.
+16 Delen
+17 Een video verlaat het apparaat alleen als je ervoor kiest hem te delen of naar Foto's te kopiëren.
+18 Kinderen
+19 De app verzamelt geen persoonsgegevens van gebruikers, ook niet van kinderen.
+20 Toestemmingen
+21 Je kunt de toestemmingen voor Camera, Microfoon, Foto's en Lokaal netwerk wijzigen in de iOS-instellingen.
+22 Wijzigingen en contact
+23 Als dit beleid verandert, wordt het hier bijgewerkt met een nieuwe datum. Voor vragen open je een issue op <a href="https://github.com/diegokelya/playback-padel-site/issues">GitHub</a>, zonder persoonsgegevens te vermelden.
+24 <a href="../support/en.html">Terug naar support</a>

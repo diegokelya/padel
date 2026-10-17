@@ -1,0 +1,67 @@
+0 ASSISTENZA
+1 Come usare PlayBack Padel
+2 PlayBack Padel conserva un ciclo continuo degli ultimi 15, 30 o 60 secondi della tua partita e salva la giocata con un gesto della mano. Funziona su iPhone e iPad, senza account e senza connessione a internet.
+3 Per iniziare
+4 Scarica PlayBack Padel dall'App Store e aprilo.
+5 Consenti l'accesso alla <b>Fotocamera</b> e, se vuoi l'audio nelle tue giocate, al <b>Microfono</b>.
+6 Appoggia il dispositivo in orizzontale, rivolto verso il campo, e aspetta che il buffer si riempia.
+7 In <b>Comandi</b> scegli i giocatori, la fotocamera, il formato video e la durata del ciclo.
+8 Gesti
+9 Le direzioni si leggono come appaiono sullo schermo: la colonna a sinistra è la squadra A e quella a destra la squadra B. Mantieni il gesto per un secondo (tutti i gesti richiedono lo stesso tempo) e abbassa la mano prima di ripeterlo.
+10 <b>👈 Punto squadra A:</b> indica a sinistra con l'indice o con la racchetta.
+11 <b>👉 Punto squadra B:</b> indica a destra.
+12 <b>👇 Annulla:</b> indica in basso per correggere l'ultimo punto.
+13 <b>🖐 Salva una giocata:</b> mostra il palmo aperto, con le dita distanziate, per un secondo. Non cambia il punteggio.
+14 <b>🖐 🖐 VAR:</b> mostra due palmi aperti e separati per un secondo.
+15 Per segnare con i gesti, attiva <b>Punteggio a gesti · sperimentale</b> in Impostazioni e indica a non più di 1,5 m dalla fotocamera. Puoi anche aggiungere punti e annullare con i pulsanti del tabellone.
+16 <b>Punteggio in due passaggi:</b> per evitare che un movimento casuale aggiunga punti, prima indichi (questo prepara soltanto il punto) e poi mostri il palmo aperto per un secondo, entro i 5 secondi successivi. Se non confermi, non succede nulla. Puoi disattivarlo in Impostazioni → <b>Conferma con il palmo</b>.
+17 Mentre <b>Giocate</b> o <b>Partite</b> sono aperte, i gesti sono in pausa: una mano vicino al telefono non aggiunge punti né salva giocate.
+18 Tabellone
+19 Il tabellone gestisce partite al meglio dei tre set e conta i game in automatico. Sul 6–6 si gioca un tie-break a 7 punti, con due di vantaggio. In Comandi puoi attivare il <b>Punto d'oro</b>: il punto sul 40–40 decide il game; se è disattivato, si gioca con il vantaggio. I colori delle squadre si scelgono in <b>Comandi → Giocatori</b>.
+20 VAR
+21 Mostra i due palmi o tocca <b>VAR</b>. Si apre il replay degli ultimi 15 s, 30 s o 1 minuto (secondo le tue impostazioni) al rallentatore a ½×, con le opzioni 1× e ¼× e avanzamento fotogramma per fotogramma. Tocca due volte per ingrandire proprio dove vuoi guardare. Puoi aprire il VAR anche su una giocata salvata. Il VAR non modifica né elimina mai i tuoi video.
+22 Giocate salvate
+23 Ogni VAR viene salvato da solo come giocata, con l'etichetta <b>VAR</b>, e collegato alla partita in corso. Apri <b>Giocate</b> (puoi farlo con la fotocamera attiva) per guardare (a schermo intero), condividere, copiare in Foto, modificare il punteggio della giocata ed eliminarla. Nel lettore, il pulsante con l'occhio nasconde il punteggio. <b>Condividi</b> offre il video così com'è o <b>con il punteggio</b> disegnato nell'angolo. Eliminare una giocata elimina anche il suo punteggio; le copie fatte in Foto restano.
+24 Avviso di salvataggio
+25 Quando una giocata viene salvata, in alto sulla schermata della fotocamera compare un avviso grande: “Salvataggio della giocata…” e poi “Giocata salvata” in verde (o “La giocata non è stata salvata” in rosso). Si legge da un paio di metri, con il telefono appoggiato alla rete.
+26 Rally lungo · beta
+27 Attiva <b>Salva i rally lunghi · beta</b> in Impostazioni e l'app guarda il campo con la fotocamera. Quando c'è molto movimento continuo per più di 8 secondi, salva l'intera giocata quando finisce: <b>da quando rileva l'inizio del movimento fino alla fine</b>, con l'etichetta <b>RALLY</b>. Misura solo il centro dell'immagine, quindi non si confonde con altri campi, e ignora i movimenti brevi e chi cammina. Accanto a “Ciclo attivo” vedi in tempo reale “Nessun movimento”, “Movimento · N s” o “Rally · N s”. Non usa il microfono e può sbagliare con molte persone in movimento o con il vento che scuote la fotocamera.
+28 Highlight
+29 Nel dettaglio di una partita, <b>Crea highlight</b>; e in <b>Giocate</b>, il pulsante con le stelle della TV per l'<b>highlight del giorno</b>, che passa in rassegna tutte le giocate di quel giorno, di tutte le partite. L'app crea un video fino a 1 minuto con le giocate migliori, nell'ordine in cui sono state giocate e con il punteggio di ciascuna. Entra solo il gioco vero: ascolta l'audio di ogni giocata, sul dispositivo, per trovare i colpi, e lascia fuori chi cammina o il campo vuoto. Preferisce l'azione migliore, i punti con più in gioco (punto d'oro, tie-break, set point) e le tue <b>preferite</b> (la stella nel lettore). Sui dispositivi con Apple Intelligence può usare l'IA del dispositivo per scegliere e ordinare le giocate; non viene inviato nulla da nessuna parte e si disattiva in Impostazioni → Avanzate. Con poche giocate il video risulta più corto. Resta <b>salvato in Giocate con l'etichetta HIGHLIGHT</b>, puoi guardarlo quando vuoi e condividerlo o salvarlo in Foto. Le giocate originali non vengono toccate.
+30 Cronologia delle partite
+31 Quando una partita finisce, o quando ne inizi una nuova con la precedente non terminata, viene salvata con le squadre, il punteggio per set e la data. Aprila da Comandi → <b>Partite</b>. Ogni partita mostra le sue giocate: toccane una per guardarla. Puoi eliminare le partite una per una o tutte insieme. Se annulli il punto della vittoria, la partita torna in corso e viene salvata di nuovo quando finisce.
+32 Chi serve
+33 Nel menu ⋯ del tabellone scegli <b>Chi serve per primo?</b>. Da quel momento una pallina indica chi serve a ogni punto: il servizio cambia squadra a ogni game, si alterna tra i compagni e segue il tie-break. Viene calcolato dal punteggio, quindi annullando un punto torna da solo. Si vede anche sull'Apple Watch.
+34 Apple Watch
+35 L'app per l'orologio (watchOS 10 o successivo) si installa dall'app Watch sull'iPhone. Mostra il punteggio e ti permette di <b>aggiungere punti, annullare, salvare una giocata e aprire il VAR</b> dal polso. I pulsanti dei punti richiedono il punteggio a gesti attivo; salvare una giocata e il VAR richiedono la fotocamera attiva. Quando tocchi <b>Salva giocata</b> o <b>VAR</b>, l'orologio mostra “Salvataggio…” e poi “Giocata salvata” o “VAR pronto sull'iPhone”, con una vibrazione. Se non riesce, dice “Non è andata”. Se l'orologio dice “iPhone non raggiungibile”, avvicinalo all'iPhone e apri l'app.
+36 Punteggio su due dispositivi
+37 Attiva <b>Trasmetti il punteggio ai dispositivi vicini</b> su entrambi i dispositivi e inserisci lo stesso codice partita di 4 cifre. Si trovano tramite Wi-Fi o Bluetooth, senza internet. La prima volta, iOS chiede il permesso <b>Rete locale</b>. Comanda il dispositivo che tiene il punteggio.
+38 Lingua
+39 L'app usa la lingua del tuo telefono: spagnolo, inglese, italiano, portoghese, tedesco, francese, svedese o olandese (altrimenti spagnolo). Puoi sceglierne un'altra in <b>Impostazioni → Lingua</b>, oppure nelle Impostazioni dell'iPhone → PlayBack Padel → Lingua.
+40 Permessi
+41 Permesso
+42 A cosa serve
+43 Obbligatorio?
+44 Fotocamera
+45 Registrare il campo e rilevare i gesti
+46 Sì
+47 Microfono
+48 Audio nelle tue giocate
+49 No
+50 Foto (solo aggiunta)
+51 Copiare le giocate in Foto quando lo chiedi
+52 No
+53 Rete locale
+54 Punteggio condiviso con un altro dispositivo
+55 No
+56 Puoi modificarli in <b>Impostazioni → PlayBack Padel</b>. Gli avvisi dell'app includono un pulsante che ti ci porta.
+57 Risoluzione dei problemi
+58 I gesti non vengono rilevati
+59 Controlla che il dispositivo sia in orizzontale, che ci sia buona luce, che la mano sia entro 1,5 m e completamente visibile. Con la racchetta devono vedersi gomito e polso.
+60 La fotocamera si è fermata
+61 Una chiamata o un'altra app che usa la fotocamera la interrompe; riparte da sola quando torni. Altrimenti, metti in pausa e riavvia. Cambiare il formato video o la fotocamera riavvia il buffer.
+62 Il punteggio condiviso non si collega
+63 Controlla che entrambi i dispositivi usino lo stesso codice, abbiano il permesso Rete locale attivo e il Wi-Fi o il Bluetooth acceso.
+64 Contatti
+65 Per domande, errori o suggerimenti, apri una segnalazione su <a href="https://github.com/diegokelya/playback-padel-site/issues">GitHub</a>. Quella pagina è pubblica: non includere dati personali né video.
+66 Informativa sulla privacy: <a href="../privacy/en.html">leggi</a>.
