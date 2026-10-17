@@ -1,0 +1,25 @@
+0 DATENSCHUTZ
+1 Datenschutzerklärung
+2 Zuletzt aktualisiert: 17. Oktober 2026.
+3 Zusammenfassung
+4 PlayBack Padel hat keine Konten, keinen eigenen Server, keine Analyse, keine Werbung, kein Tracking und keine In-App-Käufe. Der Entwickler erhält weder deine Videos noch deinen Ton, deine Namen oder deine Spielstände.
+5 Daten, die die App nutzt
+6 <b>Kamera:</b> filmt den Platz und erkennt deine Hand, um Spielzüge zu speichern und den Spielstand zu führen. Wenn du <b>Lange Rallys speichern · Beta</b> einschaltest, misst sie außerdem, wie stark sich die Bildmitte bewegt, um eine lange Rally zu erkennen. Die Analyse läuft auf dem Gerät und wird nie gespeichert oder gesendet.
+7 <b>Mikrofon (optional):</b> nimmt den Ton des Matches in deine Spielzüge auf. Wenn du ein Highlight erstellst, hört die App außerdem auf dem Gerät auf den Ton deiner gespeicherten Spielzüge, um die Schläge des Spiels zu finden; diese Analyse wird nicht gespeichert oder gesendet.
+8 <b>KI auf dem Gerät (optional):</b> auf Geräten mit Apple Intelligence kann das Highlight das Sprachmodell des Geräts nutzen, um Spielzüge auszuwählen. Es erhält nur Angaben wie Uhrzeit, Spielstand und Länge jedes Spielzugs, nie das Video oder den Ton, und alles läuft auf deinem Gerät. Du kannst es in den Einstellungen ausschalten.
+9 <b>Fotos, nur hinzufügen (optional):</b> kopiert nur die Spielzüge in Fotos, die du auswählst.
+10 <b>Apple Watch (optional):</b> wenn du die Uhr-App nutzt, sendet das iPhone ihr den Spielstand und die Teamnamen, und die Uhr sendet Befehle (Punkt zählen, rückgängig, Spielzug speichern, VAR). Das läuft direkt zwischen deinem iPhone und deiner Uhr, ohne Internet und ohne Server.
+11 <b>Lokales Netzwerk (optional):</b> verbindet zwei Geräte in der Nähe, um den Spielstand anzuzeigen.
+12 Speicherung
+13 Videos, Spielernamen, Spielstände, der Match-Verlauf und seine Spielzüge werden lokal auf deinem iPhone oder iPad gespeichert. Du kannst Spielzüge, Matches oder die App jederzeit löschen. Wenn du einen Spielzug löschst, wird auch sein Spielstand entfernt; Kopien in Fotos bleiben erhalten.
+14 Geteilter Spielstand
+15 Wenn du <b>Spielstand in der Nähe übertragen</b> einschaltest, sendet dein Gerät nur die Spielernamen und den Spielstand an ein anderes Gerät in der Nähe, das denselben Match-Code nutzt. Die Verbindung ist direkt zwischen den Geräten über WLAN oder Bluetooth, ohne Internet und ohne Server; die Nachrichten sind verschlüsselt und signiert. Es wird weder Video noch Ton gesendet.
+16 Teilen
+17 Ein Video verlässt das Gerät nur, wenn du es teilst oder in Fotos kopierst.
+18 Kinder
+19 Die App erhebt von keinem Nutzer personenbezogene Daten, auch nicht von Kindern.
+20 Berechtigungen
+21 Die Berechtigungen für Kamera, Mikrofon, Fotos und Lokales Netzwerk kannst du in den iOS-Einstellungen ändern.
+22 Änderungen und Kontakt
+23 Wenn sich diese Erklärung ändert, wird sie hier mit einem neuen Datum aktualisiert. Bei Fragen eröffne ein Issue auf <a href="https://github.com/diegokelya/playback-padel-site/issues">GitHub</a>, ohne persönliche Daten anzugeben.
+24 <a href="../support/en.html">Zurück zum Support</a>

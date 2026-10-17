@@ -1,0 +1,96 @@
+0 PlayBack Padel — Dein bester Punkt, immer bereit
+1 PlayBack Padel verwandelt dein iPhone oder iPad in eine Replay-Kamera für Padel: Speichere den Spielzug mit einer Geste, sieh ihn dir im VAR in Zeitlupe an und führe den Spielstand deines Matches.
+2 Zum Inhalt springen
+5 Gesten
+6 Funktionen
+7 Laden
+8 REPLAY & LIVE-SPIELSTAND
+9 Dein bester Punkt.<br><em>Eine Geste</em> speichert ihn.
+10 PlayBack Padel verwandelt ein iPhone in eine Replay-Kamera und eine Live-Anzeigetafel für dein Match.
+11 Gratis laden
+12 So funktioniert es
+13 Beispiel-Anzeigetafel: Team A 40, Team B 30, Spielzug gesichert
+14 TEAM A
+15 TEAM B
+16 SPIELZUG GESICHERT
+17 Kein Zubehör, keine Abos. Nur das Match, deine besten Spielzüge und ein Spielstand, den alle sehen können.
+18 STEUERE DAS MATCH
+19 Die Gesten versteht man<br>auf einen Blick.
+20 Punkt Team A
+21 Zeige eine Sekunde lang nach links und bestätige dann mit der Handfläche.
+22 Rückgängig
+23 Zeige nach unten und bestätige mit der Handfläche, um den letzten Punkt zu korrigieren.
+24 Punkt Team B
+25 Zeige eine Sekunde lang nach rechts und bestätige dann mit der Handfläche.
+26 Spielzug speichern
+27 Zeige eine Sekunde lang die offene Handfläche.
+28 VAR aktivieren
+29 Zwei Handflächen mit Abstand, eine Sekunde gehalten, öffnen die Wiederholung in Zeitlupe.
+30 FÜR DEN PLATZ GEMACHT
+31 Alles, was du<br>zwischen den Punkten brauchst.
+32 Sofort-Replay
+33 Speichere die letzten 15, 30 oder 60 Sekunden, ohne die Kamera anzuhalten.
+34 VAR in Zeitlupe
+35 Sieh dir den Spielzug mit ½×, ¼× oder Bild für Bild an. Doppeltippen zoomt dorthin, wo du hinschauen willst.
+36 VAR bei gespeicherten Spielzügen
+37 Jedes VAR wird als Spielzug mit eigenem Label gesichert. Öffne es bei jedem Spielzug erneut, kurz vor dem Moment, den du gerade angesehen hast.
+38 Kompletter Spielstand
+39 Sätze, Spiele, Tie-Break bei 6–6 und optionaler Golden Point. Zähle oder mache rückgängig mit Gesten oder per Button.
+40 Match-Verlauf
+41 Jedes Match wird mit Ergebnis pro Satz, Datum und seinen Spielzügen gesichert. Sieh nach, wie es lief, und lösche, was du willst.
+42 Spielstand auf zwei Geräten
+43 Zeige den Spielstand auf einem anderen iPhone oder iPad in der Nähe, ohne Internet, gekoppelt mit einem Match-Code.
+44 Für iPhone und iPad
+45 Die App läuft auch auf dem iPad, im Vollbild und im Querformat.
+46 Apple Watch
+47 Zähle Punkte, mache sie rückgängig, speichere den Spielzug und öffne das VAR vom Handgelenk, mit dem Spielstand auf der Uhr.
+48 Wer schlägt auf
+49 Die Anzeigetafel zeigt bei jedem Punkt, wer aufschlägt: Sie wechselt von selbst nach jedem Spiel und folgt dem Tie-Break.
+50 Mit Spielstand teilen
+51 Sende einen Spielzug mit dem Spielstand in der Ecke, bereit für WhatsApp. Das Original bleibt unverändert.
+52 Lange Rally (Beta)
+53 Sie beobachtet den Platz mit der Kamera und speichert nur Rallys von mehr als 8 Sekunden, vom Anfang bis zum Ende.
+54 Highlight des Matches oder des Tages
+55 Ein Video von bis zu 1 Minute mit deinen besten Spielzügen, nur mit echtem Spiel (die App hört auf die Schläge) und jeweils mit ihrem Spielstand. Das des Tages sieht alle deine Matches durch. Es bleibt in der App gesichert, zum Ansehen oder Teilen.
+56 Deine Spielzüge bleiben auf deinem Gerät
+57 Keine Konten, Server oder Werbung. Videos verlassen das Gerät nie, außer du teilst sie.
+58 SO FUNKTIONIERT ES
+59 Alles in<br>40 Sekunden.
+60 Illustration mit Beispieldaten.
+61 Demovideo von PlayBack Padel: einen Spielzug mit der Handfläche speichern, durch Zeigen zählen, VAR in Zeitlupe und das Highlight des Tages
+62 DIE APP VON INNEN
+63 So sieht es<br>auf dem Platz aus.
+64 Vollbild-Anzeigetafel mit Sätzen, Spielen und Punkten.
+65 Vollbild-Anzeigetafel von PlayBack Padel: Team A 40, Team B 30, mit den Sätzen
+66 Drei Gesten, um das Match zu steuern, ohne das Handy zu berühren.
+67 Gesten von PlayBack Padel: zeigen zum Zählen, offene Handfläche zum Speichern des Spielzugs, zwei Handflächen für das VAR
+68 VAR, Highlight des Tages, mit Spielstand teilen und keine Konten.
+69 Funktionen von PlayBack Padel: VAR in Zeitlupe, Highlight des Tages, mit Spielstand teilen, keine Konten und kein Internet
+70 Match-Verlauf mit seinen Spielzügen.
+71 Match-Verlauf von PlayBack Padel
+72 Auch am Handgelenk
+73 Mit der Apple Watch zählst du Punkte, machst sie rückgängig, speicherst den Spielzug und öffnest das VAR, ohne das iPhone am Zaun anzufassen. Sie ist optional.
+74 Apple Watch mit dem Spielstand 40–30 und den Buttons +1, Rückgängig, Spielzug speichern und VAR
+75 Apple Watch mit dem Hinweis, die Zählung auf dem iPhone einzuschalten
+76 Apple Watch mit dem Hinweis „Match beendet“
+77 Screenshots mit Beispieldaten.
+78 HÄUFIGE FRAGEN
+79 Was fast alle<br>fragen.
+80 Brauche ich Internet?
+81 Nein. Alles läuft auf dem Gerät. Der geteilte Spielstand zwischen zwei iPhones oder iPads nutzt WLAN oder Bluetooth, ohne Internet.
+82 Bis zu welcher Entfernung funktionieren die Gesten?
+83 Bis etwa 1,5 Meter von der Kamera. Für größere Entfernungen gibt es die Buttons der Anzeigetafel und die Apple Watch.
+84 Brauche ich eine Apple Watch?
+85 Nein. Gesten und die Buttons auf dem Bildschirm reichen. Die Uhr ist ein Extra, um das Match vom Handgelenk zu steuern.
+86 Wie viel Video wird gespeichert?
+87 Es hält eine Schleife der letzten 15, 30 oder 60 Sekunden vor, ganz nach deiner Wahl. Ein Video wird nur gesichert, wenn du die Handfläche zeigst, auf „Spielzug speichern“ tippst oder, falls aktiviert, eine lange Rally endet.
+88 Gehen meine Videos irgendwohin?
+89 Nein. Es gibt keine Konten oder Server: Videos, Namen und Spielstände bleiben auf deinem Gerät und verlassen es nur, wenn du sie teilst.
+90 Was brauche ich, um sie zu nutzen?
+91 Ein iPhone oder iPad mit iOS 17 oder neuer. Für die Uhr eine Apple Watch mit watchOS 10 oder neuer.
+92 JETZT VERFÜGBAR
+93 PlayBack Padel<br>ist auf dem Platz.
+94 Lade sie gratis im App Store für iPhone und iPad.
+95 Laden im App Store
+96 Support
+97 Datenschutz

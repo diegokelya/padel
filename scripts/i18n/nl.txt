@@ -1,0 +1,96 @@
+0 PlayBack Padel — Je beste punt, altijd klaar
+1 PlayBack Padel verandert je iPhone of iPad in een replaycamera voor padel: bewaar het fragment met een gebaar, bekijk het in VAR in slow motion en houd de stand van je wedstrijd bij.
+2 Naar de inhoud
+5 Gebaren
+6 Functies
+7 Download
+8 REPLAY EN LIVE STAND
+9 Je beste punt.<br><em>Eén gebaar</em> bewaart het.
+10 PlayBack Padel verandert een iPhone in een replaycamera en live scorebord voor je wedstrijd.
+11 Gratis downloaden
+12 Zie hoe het werkt
+13 Voorbeeld van het scorebord: Team A 40, Team B 30, fragment bewaard
+14 TEAM A
+15 TEAM B
+16 FRAGMENT BEWAARD
+17 Geen accessoires of abonnementen. Alleen de wedstrijd, je beste fragmenten en een stand die iedereen kan zien.
+18 BESTUUR DE WEDSTRIJD
+19 De gebaren begrijp je<br>in één oogopslag.
+20 Punt team A
+21 Wijs een seconde naar links en bevestig dan met je handpalm.
+22 Ongedaan maken
+23 Wijs naar beneden en bevestig met je handpalm om het laatste punt te corrigeren.
+24 Punt team B
+25 Wijs een seconde naar rechts en bevestig dan met je handpalm.
+26 Een fragment bewaren
+27 Toon een seconde je open handpalm.
+28 VAR activeren
+29 Twee handpalmen uit elkaar, een seconde vastgehouden, openen de herhaling in slow motion.
+30 GEMAAKT VOOR DE BAAN
+31 Alles wat je nodig hebt<br>tussen de punten.
+32 Directe replay
+33 Bewaar de laatste 15, 30 of 60 seconden zonder de camera te stoppen.
+34 VAR in slow motion
+35 Bekijk het fragment op ½×, ¼× of beeld voor beeld. Tik twee keer om in te zoomen waar je wilt kijken.
+36 VAR op je bewaarde fragmenten
+37 Elke VAR wordt als fragment bewaard, met zijn eigen label. Open hem opnieuw op elk fragment, een moment voor wat je aan het bekijken was.
+38 Complete wedstrijdstand
+39 Sets, games, een tie-break bij 6–6 en optioneel golden point. Tel of maak ongedaan met gebaren of een knop.
+40 Wedstrijdgeschiedenis
+41 Elke wedstrijd wordt bewaard met de stand per set, de datum en zijn fragmenten. Zie hoe het ging en verwijder wat je wilt.
+42 Stand op twee apparaten
+43 Toon de stand op een andere iPhone of iPad in de buurt, zonder internet, gekoppeld met een wedstrijdcode.
+44 Voor iPhone en iPad
+45 De app werkt ook op de iPad, op volledig scherm en in landschap.
+46 Apple Watch
+47 Tel punten, maak ongedaan, bewaar het fragment en open VAR vanaf je pols, met de stand op de klok.
+48 Wie serveert
+49 Het scorebord toont bij elk punt wie er serveert: het wisselt elk game vanzelf en volgt de tie-break.
+50 Delen met de stand
+51 Stuur een fragment met de stand in de hoek getekend, klaar voor WhatsApp. Het origineel blijft ongewijzigd.
+52 Lange rally (bèta)
+53 Hij bekijkt de baan met de camera en bewaart alleen rally's van meer dan 8 seconden, van begin tot eind.
+54 Highlight van de wedstrijd of de dag
+55 Een video van maximaal 1 minuut met je beste fragmenten, alleen met echt spel (de app luistert naar de slagen) en elk met zijn stand. Die van de dag bekijkt al je wedstrijden. Hij blijft bewaard in de app om te bekijken of te delen.
+56 Je fragmenten blijven op je apparaat
+57 Geen accounts, servers of advertenties. Video's verlaten het apparaat nooit, tenzij je ze deelt.
+58 ZIE HOE HET WERKT
+59 Alles in<br>40 seconden.
+60 Illustratie met voorbeeldgegevens.
+61 Demovideo van PlayBack Padel: een fragment bewaren met je handpalm, tellen door te wijzen, VAR in slow motion en de highlight van de dag
+62 DE APP VAN BINNEN
+63 Zo ziet het eruit<br>op de baan.
+64 Scorebord op volledig scherm met sets, games en punten.
+65 Scorebord van PlayBack Padel op volledig scherm: Team A 40, Team B 30, met de sets
+66 Drie gebaren om de wedstrijd te besturen zonder de telefoon aan te raken.
+67 Gebaren van PlayBack Padel: wijzen om te tellen, open handpalm om het fragment te bewaren, twee handpalmen voor VAR
+68 VAR, highlight van de dag, delen met de stand en geen accounts.
+69 Functies van PlayBack Padel: VAR in slow motion, highlight van de dag, delen met de stand, geen accounts of internet
+70 Wedstrijdgeschiedenis met zijn fragmenten.
+71 Wedstrijdgeschiedenis van PlayBack Padel
+72 Ook om je pols
+73 Met de Apple Watch tel je punten, maak je ongedaan, bewaar je het fragment en open je VAR zonder de iPhone aan het hek aan te raken. Het is optioneel.
+74 Apple Watch met de stand 40–30 en de knoppen +1, ongedaan maken, fragment bewaren en VAR
+75 Apple Watch met de melding om het tellen op de iPhone aan te zetten
+76 Apple Watch met de melding dat de wedstrijd is afgelopen
+77 Schermafbeeldingen met voorbeeldgegevens.
+78 VEELGESTELDE VRAGEN
+79 Wat bijna iedereen<br>vraagt.
+80 Heb ik internet nodig?
+81 Nee. Alles draait op het apparaat. De gedeelde stand tussen twee iPhones of iPads gebruikt wifi of Bluetooth, zonder internet.
+82 Tot welke afstand werken de gebaren?
+83 Tot ongeveer 1,5 meter van de camera. Om verder weg te spelen zijn er de knoppen van het scorebord en de Apple Watch.
+84 Heb ik een Apple Watch nodig?
+85 Nee. De gebaren en de knoppen op het scherm zijn genoeg. De klok is een extra om de wedstrijd vanaf je pols te besturen.
+86 Hoeveel video wordt bewaard?
+87 Hij houdt een lus van de laatste 15, 30 of 60 seconden aan, naar keuze. Een video wordt alleen bewaard als je je handpalm toont, op Fragment opslaan tikt of, als je het aanzet, een lange rally eindigt.
+88 Gaan mijn video's ergens naartoe?
+89 Nee. Er zijn geen accounts of servers: video's, namen en standen blijven op je apparaat en verlaten het alleen als je ze deelt.
+90 Wat heb ik nodig om hem te gebruiken?
+91 Een iPhone of iPad met iOS 17 of nieuwer. Voor de klok een Apple Watch met watchOS 10 of nieuwer.
+92 NU BESCHIKBAAR
+93 PlayBack Padel<br>staat op de baan.
+94 Download hem gratis in de App Store voor iPhone en iPad.
+95 Download in de App Store
+96 Support
+97 Privacy

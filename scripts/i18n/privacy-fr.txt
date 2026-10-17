@@ -1,0 +1,25 @@
+0 CONFIDENTIALITÉ
+1 Politique de confidentialité
+2 Dernière mise à jour : 17 octobre 2026.
+3 Résumé
+4 PlayBack Padel n'a ni compte, ni serveur propre, ni analyse, ni publicité, ni suivi, ni achat intégré. Le développeur ne reçoit ni tes vidéos, ni ton son, ni tes noms, ni tes scores.
+5 Données utilisées par l'app
+6 <b>Caméra :</b> filme le terrain et détecte ta main pour enregistrer les actions et tenir le score. Si tu actives <b>Enregistrer les longs échanges · bêta</b>, elle mesure aussi combien le centre de l'image bouge pour détecter un long échange. L'analyse se fait sur l'appareil et n'est jamais conservée ni envoyée.
+7 <b>Micro (facultatif) :</b> inclut le son du match dans tes actions. Quand tu crées des temps forts, l'app écoute aussi le son de tes actions enregistrées, sur l'appareil, pour trouver les frappes du jeu ; cette analyse n'est ni conservée ni envoyée.
+8 <b>IA de l'appareil (facultative) :</b> sur les appareils avec Apple Intelligence, les temps forts peuvent utiliser le modèle de langage de l'appareil pour choisir les actions. Il ne reçoit que des données comme l'heure, le score et la durée de chaque action, jamais la vidéo ni le son, et tout se passe sur ton appareil. Tu peux la désactiver dans les Réglages.
+9 <b>Photos, ajout seulement (facultatif) :</b> copie dans Photos uniquement les actions que tu choisis.
+10 <b>Apple Watch (facultatif) :</b> si tu utilises l'app de la montre, l'iPhone lui envoie le score et les noms des équipes, et la montre envoie des commandes (ajouter un point, annuler, enregistrer une action, VAR). Cela circule directement entre ton iPhone et ta montre, sans internet et sans serveur.
+11 <b>Réseau local (facultatif) :</b> connecte deux appareils proches pour afficher le score.
+12 Stockage
+13 Les vidéos, les noms des joueurs, les scores, l'historique des matchs et leurs actions sont stockés localement sur ton iPhone ou ton iPad. Tu peux supprimer des actions, des matchs ou l'app à tout moment. Supprimer une action supprime aussi son score ; les copies dans Photos sont conservées.
+14 Score partagé
+15 Si tu actives <b>Diffuser le score à proximité</b>, ton appareil n'envoie que les noms des joueurs et le score à un autre appareil proche qui utilise le même code de match. La connexion est directe entre les appareils par Wi-Fi ou Bluetooth, sans internet et sans serveur ; les messages sont chiffrés et signés. Aucune vidéo ni aucun son n'est envoyé.
+16 Partage
+17 Une vidéo ne quitte l'appareil que si tu choisis de la partager ou de la copier dans Photos.
+18 Enfants
+19 L'app ne collecte de données personnelles d'aucun utilisateur, y compris les enfants.
+20 Autorisations
+21 Tu peux modifier les autorisations Caméra, Micro, Photos et Réseau local dans les Réglages d'iOS.
+22 Modifications et contact
+23 Si cette politique change, elle sera mise à jour ici avec une nouvelle date. Pour toute question, ouvre un ticket sur <a href="https://github.com/diegokelya/playback-padel-site/issues">GitHub</a>, sans inclure de données personnelles.
+24 <a href="../support/en.html">Retour à l'assistance</a>

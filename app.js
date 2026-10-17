@@ -1,4 +1,5 @@
-// Bilingual copy. Strings are static and written here, so innerHTML only ever receives trusted markup.
+// Copy in Spanish and English. The other languages are generated into copy.extra.js (scripts/build-copy.py). Strings are
+// static, so innerHTML only ever receives trusted markup.
 const copy = {
   es: {
     title: 'PlayBack Padel — Tu mejor punto, siempre listo',
@@ -20,7 +21,7 @@ const copy = {
     gestureVar: 'Activar VAR', gestureVarText: 'Dos palmas separadas, un segundo, abren la repetición en cámara lenta.',
     featureEyebrow: 'HECHO PARA LA CANCHA', featureTitle: 'Todo lo que necesitás<br>entre punto y punto.',
     f1: 'Repetición instantánea', f1t: 'Guardá los últimos 15, 30 o 60 segundos sin detener la cámara.',
-    f2: 'VAR en cámara lenta', f2t: 'Revisá la jugada a ½×, ¼× o cuadro por cuadro. Doble toque para ampliar la pelota, o dejá que el zoom la siga (beta).',
+    f2: 'VAR en cámara lenta', f2t: 'Revisá la jugada a ½×, ¼× o cuadro por cuadro. Doble toque para ampliar justo donde querés mirar.',
     f3: 'VAR en tus jugadas guardadas', f3t: 'Cada VAR queda guardado como jugada, con su etiqueta. Abrilo otra vez sobre cualquier jugada, empezando un momento antes de lo que estabas viendo.',
     f4: 'Marcador de partido completo', f4t: 'Sets, juegos, tie-break a 6–6 y punto de oro opcional. Sumá o deshacé con gestos o con un botón.',
     f5: 'Historial de partidos', f5t: 'Cada partido queda guardado con el resultado por sets, la fecha y sus jugadas. Mirá cómo te fue y borrá lo que quieras.',
@@ -75,7 +76,7 @@ const copy = {
     gestureVar: 'Activate VAR', gestureVarText: 'Two separated palms, held one second, open the replay in slow motion.',
     featureEyebrow: 'BUILT FOR THE COURT', featureTitle: 'Everything you need<br>between points.',
     f1: 'Instant replay', f1t: 'Save the last 15, 30 or 60 seconds without stopping the camera.',
-    f2: 'Slow-motion VAR', f2t: 'Review the play at ½×, ¼× or frame by frame. Double-tap to zoom on the ball, or let the zoom follow it (beta).',
+    f2: 'Slow-motion VAR', f2t: 'Review the play at ½×, ¼× or frame by frame. Double-tap to zoom in right where you want to look.',
     f3: 'VAR on your saved plays', f3t: 'Every VAR is saved as a play, with its own tag. Open it again on any play, starting a moment before what you were watching.',
     f4: 'Full match scoring', f4t: 'Sets, games, a tie-break at 6–6 and optional golden point. Add or undo with gestures or a button.',
     f5: 'Match history', f5t: 'Every match is saved with its score by set, the date and its plays. See how you did and delete what you want.',
@@ -113,10 +114,14 @@ const copy = {
 };
 
 // Screenshots differ by language only in their text, so each language names its own files.
+// The new languages reuse the English images and video (their text is part of the picture).
 const shots = {
   es: { scoreboard: 'slide-es-scoreboard', gestures: 'slide-es-gestures', features: 'slide-es-features', matches: 'slide-es-matches', watch1: 'watch-es-01-partido', watch2: 'watch-es-02-puntaje-apagado', watch3: 'watch-es-03-partido-terminado' },
   en: { scoreboard: 'slide-en-scoreboard', gestures: 'slide-en-gestures', features: 'slide-en-features', matches: 'slide-en-matches', watch1: 'watch-en-01-match', watch2: 'watch-en-02-scoring-off', watch3: 'watch-en-03-match-finished' }
 };
+
+if (typeof extraCopy !== 'undefined') Object.assign(copy, extraCopy);
+const imageLanguage = code => (code === 'es' ? 'es' : 'en');
 
 const store = {
   get() { try { return localStorage.getItem('lang'); } catch { return null; } },
@@ -129,7 +134,12 @@ function initialLanguage() {
   if (param in copy) return param;
   const saved = store.get();
   if (saved in copy) return saved;
-  return (navigator.language || '').toLowerCase().startsWith('es') ? 'es' : (navigator.language ? 'en' : 'es');
+  // The first browser language we have a translation of; English for any other; Spanish when it is not known.
+  for (const preferred of navigator.languages || [navigator.language || '']) {
+    const code = preferred.toLowerCase().slice(0, 2);
+    if (code in copy) return code;
+  }
+  return navigator.language ? 'en' : 'es';
 }
 
 let lang = initialLanguage();
@@ -140,15 +150,16 @@ function render() {
   document.title = text.title;
   document.querySelector('meta[name="description"]').setAttribute('content', text.description);
   document.querySelectorAll('[data-i18n]').forEach(el => { el.innerHTML = text[el.dataset.i18n]; });
-  document.querySelectorAll('[data-shot]').forEach(img => { img.src = `assets/shots/${shots[lang][img.dataset.shot]}.webp`; });
+  document.querySelectorAll('[data-shot]').forEach(img => { img.src = `assets/shots/${shots[imageLanguage(lang)][img.dataset.shot]}.webp`; });
   const demo = document.getElementById('demo-video');
   if (demo) {
-    const src = `assets/demo-${lang}.mp4`;
+    const media = imageLanguage(lang);
+    const src = `assets/demo-${media}.mp4`;
     // Changing the source of a playing video would restart it for nothing: only swap when the language changed.
-    if (!demo.getAttribute('src') || !demo.getAttribute('src').endsWith(`demo-${lang}.mp4`)) {
+    if (!demo.getAttribute('src') || !demo.getAttribute('src').endsWith(`demo-${media}.mp4`)) {
       const wasPlaying = !demo.paused;
       demo.setAttribute('src', src);
-      demo.setAttribute('poster', `assets/demo-poster-${lang}.webp`);
+      demo.setAttribute('poster', `assets/demo-poster-${media}.webp`);
       if (wasPlaying) demo.play().catch(() => {});
     }
   }
@@ -156,14 +167,11 @@ function render() {
   document.querySelectorAll('[data-i18n-aria]').forEach(el => el.setAttribute('aria-label', text[el.dataset.i18nAria]));
   document.getElementById('support-link').href = text.supportUrl;
   document.getElementById('privacy-link').href = text.privacyUrl;
-  const button = document.getElementById('language');
-  button.textContent = text.switchLabel;
-  button.setAttribute('aria-label', text.switchTo);
-  button.setAttribute('lang', lang === 'es' ? 'en' : 'es');
+  document.getElementById('language').value = lang;
 }
 
-document.getElementById('language').addEventListener('click', () => {
-  lang = lang === 'es' ? 'en' : 'es';
+document.getElementById('language').addEventListener('change', event => {
+  lang = event.target.value;
   store.set(lang);
   render();
 });

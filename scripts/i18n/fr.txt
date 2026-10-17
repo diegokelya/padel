@@ -1,0 +1,96 @@
+0 PlayBack Padel — Ton meilleur point, toujours prêt
+1 PlayBack Padel transforme ton iPhone ou ton iPad en caméra de replays pour le padel : enregistre l'action d'un geste, revois-la au ralenti avec la VAR et suis le score de ton match.
+2 Aller au contenu
+5 Gestes
+6 Fonctions
+7 Télécharger
+8 REPLAY ET SCORE EN DIRECT
+9 Ton meilleur point.<br><em>Un geste</em> pour l'enregistrer.
+10 PlayBack Padel transforme un iPhone en caméra de replays et en tableau des scores en direct pour ton match.
+11 Télécharger gratuitement
+12 Voir comment ça marche
+13 Tableau des scores d'exemple : Équipe A 40, Équipe B 30, action enregistrée
+14 ÉQUIPE A
+15 ÉQUIPE B
+16 ACTION ENREGISTRÉE
+17 Pas d'accessoires ni d'abonnements. Juste le match, tes meilleures actions et un score que tout le monde peut voir.
+18 CONTRÔLE LE MATCH
+19 Les gestes se comprennent<br>d'un coup d'œil.
+20 Point équipe A
+21 Pointe vers la gauche pendant une seconde, puis confirme avec la paume.
+22 Annuler
+23 Pointe vers le bas et confirme avec la paume pour corriger le dernier point.
+24 Point équipe B
+25 Pointe vers la droite pendant une seconde, puis confirme avec la paume.
+26 Enregistrer une action
+27 Montre la paume ouverte pendant une seconde.
+28 Activer la VAR
+29 Deux paumes écartées, tenues une seconde, ouvrent le replay au ralenti.
+30 PENSÉ POUR LE TERRAIN
+31 Tout ce qu'il te faut<br>entre deux points.
+32 Replay instantané
+33 Enregistre les 15, 30 ou 60 dernières secondes sans arrêter la caméra.
+34 VAR au ralenti
+35 Revois l'action à ½×, ¼× ou image par image. Touche deux fois pour zoomer là où tu veux regarder.
+36 La VAR sur tes actions enregistrées
+37 Chaque VAR est enregistrée comme une action, avec sa propre étiquette. Rouvre-la sur n'importe quelle action, un instant avant ce que tu regardais.
+38 Score complet du match
+39 Sets, jeux, tie-break à 6–6 et point en or facultatif. Ajoute ou annule avec les gestes ou avec un bouton.
+40 Historique des matchs
+41 Chaque match est enregistré avec son score par set, la date et ses actions. Regarde comment ça s'est passé et supprime ce que tu veux.
+42 Score sur deux appareils
+43 Affiche le score sur un autre iPhone ou iPad à proximité, sans internet, associé avec un code de match.
+44 Pour iPhone et iPad
+45 L'app fonctionne aussi sur iPad, en plein écran et en paysage.
+46 Apple Watch
+47 Ajoute des points, annule, enregistre l'action et ouvre la VAR depuis ton poignet, avec le score sur la montre.
+48 Qui sert
+49 Le tableau des scores indique qui sert à chaque point : il change tout seul à chaque jeu et suit le tie-break.
+50 Partager avec le score
+51 Envoie une action avec le score dessiné dans le coin, prête pour WhatsApp. L'original n'est pas modifié.
+52 Long échange (bêta)
+53 Elle surveille le terrain avec la caméra et n'enregistre que les échanges de plus de 8 secondes, du début à la fin.
+54 Temps forts du match ou de la journée
+55 Une vidéo allant jusqu'à 1 minute avec tes meilleures actions, uniquement avec du vrai jeu (l'app écoute les frappes) et chacune avec son score. Celle de la journée passe en revue tous tes matchs. Elle reste enregistrée dans l'app pour la regarder ou la partager.
+56 Tes actions restent sur ton appareil
+57 Pas de compte, de serveur ni de publicité. Les vidéos ne quittent jamais l'appareil, sauf si tu les partages.
+58 VOIS COMMENT ÇA MARCHE
+59 Tout en<br>40 secondes.
+60 Illustration avec des données d'exemple.
+61 Vidéo de démonstration de PlayBack Padel : enregistrer une action avec la paume, marquer en pointant, VAR au ralenti et temps forts de la journée
+62 L'APP DE L'INTÉRIEUR
+63 Voilà à quoi ça ressemble<br>sur le terrain.
+64 Tableau des scores en plein écran avec sets, jeux et points.
+65 Tableau des scores en plein écran de PlayBack Padel : Équipe A 40, Équipe B 30, avec les sets
+66 Trois gestes pour mener le match sans toucher le téléphone.
+67 Gestes de PlayBack Padel : pointer pour marquer, paume ouverte pour enregistrer l'action, deux paumes pour la VAR
+68 VAR, temps forts de la journée, partage avec le score et pas de compte.
+69 Fonctions de PlayBack Padel : VAR au ralenti, temps forts de la journée, partage avec le score, pas de compte ni d'internet
+70 Historique des matchs avec ses actions.
+71 Historique des matchs de PlayBack Padel
+72 Aussi à ton poignet
+73 Avec l'Apple Watch, tu ajoutes des points, tu annules, tu enregistres l'action et tu ouvres la VAR sans toucher l'iPhone posé sur le grillage. C'est facultatif.
+74 Apple Watch affichant le score 40–30 avec les boutons +1, annuler, enregistrer l'action et VAR
+75 Apple Watch avec l'avis pour activer le score sur l'iPhone
+76 Apple Watch avec l'avis de match terminé
+77 Captures d'écran avec des données d'exemple.
+78 QUESTIONS FRÉQUENTES
+79 Ce que presque tout<br>le monde demande.
+80 Faut-il internet ?
+81 Non. Tout fonctionne sur l'appareil. Le score partagé entre deux iPhone ou iPad utilise le Wi-Fi ou le Bluetooth, sans internet.
+82 À quelle distance les gestes fonctionnent-ils ?
+83 Jusqu'à environ 1,5 mètre de la caméra. Pour jouer plus loin, il y a les boutons du tableau des scores et l'Apple Watch.
+84 Faut-il une Apple Watch ?
+85 Non. Les gestes et les boutons à l'écran suffisent. La montre est un plus pour mener le match depuis le poignet.
+86 Combien de vidéo est conservée ?
+87 Elle garde une boucle des 15, 30 ou 60 dernières secondes, au choix. Une vidéo n'est enregistrée que lorsque tu montres la paume, touches Enregistrer l'action ou, si tu l'actives, quand un long échange se termine.
+88 Mes vidéos vont-elles quelque part ?
+89 Non. Il n'y a ni compte ni serveur : vidéos, noms et scores restent sur ton appareil et ne sortent que si tu les partages.
+90 Que faut-il pour l'utiliser ?
+91 Un iPhone ou un iPad sous iOS 17 ou plus récent. Pour la montre, une Apple Watch sous watchOS 10 ou plus récent.
+92 DÉJÀ DISPONIBLE
+93 PlayBack Padel<br>est sur le terrain.
+94 Télécharge-la gratuitement sur l'App Store pour iPhone et iPad.
+95 Télécharger sur l'App Store
+96 Assistance
+97 Confidentialité

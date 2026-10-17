@@ -1,0 +1,96 @@
+0 PlayBack Padel — Din bästa poäng, alltid redo
+1 PlayBack Padel gör din iPhone eller iPad till en replaykamera för padel: spara klippet med en gest, granska det i VAR i slow motion och håll koll på matchens ställning.
+2 Hoppa till innehållet
+5 Gester
+6 Funktioner
+7 Ladda ner
+8 REPLAY OCH LIVE-STÄLLNING
+9 Din bästa poäng.<br><em>En gest</em> sparar den.
+10 PlayBack Padel gör en iPhone till en replaykamera och en live-resultattavla för din match.
+11 Ladda ner gratis
+12 Se hur det fungerar
+13 Exempel på resultattavla: Lag A 40, Lag B 30, klipp sparat
+14 LAG A
+15 LAG B
+16 KLIPP SPARAT
+17 Inga tillbehör eller prenumerationer. Bara matchen, dina bästa klipp och en ställning som alla kan se.
+18 STYR MATCHEN
+19 Gesterna förstås<br>med en blick.
+20 Poäng lag A
+21 Peka åt vänster i en sekund och bekräfta sedan med handflatan.
+22 Ångra
+23 Peka nedåt och bekräfta med handflatan för att rätta den senaste poängen.
+24 Poäng lag B
+25 Peka åt höger i en sekund och bekräfta sedan med handflatan.
+26 Spara ett klipp
+27 Visa öppen handflata i en sekund.
+28 Aktivera VAR
+29 Två handflator isär, i en sekund, öppnar repriesen i slow motion.
+30 GJORD FÖR BANAN
+31 Allt du behöver<br>mellan poängen.
+32 Direkt replay
+33 Spara de senaste 15, 30 eller 60 sekunderna utan att stoppa kameran.
+34 VAR i slow motion
+35 Granska klippet i ½×, ¼× eller bild för bild. Dubbeltryck för att zooma precis där du vill titta.
+36 VAR på dina sparade klipp
+37 Varje VAR sparas som ett klipp, med sin egen etikett. Öppna det igen på vilket klipp som helst, en stund före det du tittade på.
+38 Komplett matchställning
+39 Set, game, tie-break vid 6–6 och valfri golden point. Räkna eller ångra med gester eller en knapp.
+40 Matchhistorik
+41 Varje match sparas med ställning per set, datum och sina klipp. Se hur det gick och ta bort det du vill.
+42 Ställning på två enheter
+43 Visa ställningen på en annan iPhone eller iPad i närheten, utan internet, ihopkopplad med en matchkod.
+44 För iPhone och iPad
+45 Appen fungerar även på iPad, i helskärm och liggande.
+46 Apple Watch
+47 Räkna poäng, ångra, spara klippet och öppna VAR från handleden, med ställningen på klockan.
+48 Vem servar
+49 Resultattavlan visar vem som servar vid varje poäng: den byter av sig själv varje game och följer tie-breaken.
+50 Dela med ställningen
+51 Skicka ett klipp med ställningen ritad i hörnet, redo för WhatsApp. Originalet rörs inte.
+52 Långt rally (beta)
+53 Den tittar på banan med kameran och sparar bara rallyn på mer än 8 sekunder, från start till slut.
+54 Höjdpunkter från matchen eller dagen
+55 En video på upp till 1 minut med dina bästa klipp, bara med riktigt spel (appen lyssnar efter slagen) och vart och ett med sin ställning. Den för dagen går igenom alla dina matcher. Den sparas i appen så att du kan titta på den eller dela den.
+56 Dina klipp stannar på din enhet
+57 Inga konton, servrar eller annonser. Videor lämnar aldrig enheten om du inte delar dem.
+58 SE HUR DET FUNGERAR
+59 Allt på<br>40 sekunder.
+60 Illustration med exempeldata.
+61 Demovideo för PlayBack Padel: spara ett klipp med handflatan, räkna poäng genom att peka, VAR i slow motion och dagens höjdpunkter
+62 APPEN INIFRÅN
+63 Så ser det ut<br>på banan.
+64 Resultattavla i helskärm med set, game och poäng.
+65 PlayBack Padels resultattavla i helskärm: Lag A 40, Lag B 30, med seten
+66 Tre gester för att styra matchen utan att röra telefonen.
+67 PlayBack Padels gester: peka för att räkna poäng, öppen handflata för att spara klippet, två handflator för VAR
+68 VAR, dagens höjdpunkter, dela med ställningen och inga konton.
+69 PlayBack Padels funktioner: VAR i slow motion, dagens höjdpunkter, dela med ställningen, inga konton eller internet
+70 Matchhistorik med sina klipp.
+71 PlayBack Padels matchhistorik
+72 Även på handleden
+73 Med Apple Watch räknar du poäng, ångrar, sparar klippet och öppnar VAR utan att röra iPhone på staketet. Det är valfritt.
+74 Apple Watch som visar ställningen 40–30 med knapparna +1, ångra, spara klipp och VAR
+75 Apple Watch med meddelandet om att slå på poängräkningen på iPhone
+76 Apple Watch med meddelandet att matchen är slut
+77 Skärmbilder med exempeldata.
+78 VANLIGA FRÅGOR
+79 Det nästan<br>alla undrar.
+80 Behöver jag internet?
+81 Nej. Allt körs på enheten. Den delade ställningen mellan två iPhone eller iPad använder Wi-Fi eller Bluetooth, utan internet.
+82 På hur långt avstånd fungerar gesterna?
+83 Upp till ungefär 1,5 meter från kameran. För att spela längre bort finns knapparna på resultattavlan och Apple Watch.
+84 Behöver jag en Apple Watch?
+85 Nej. Gesterna och knapparna på skärmen räcker. Klockan är ett extra sätt att styra matchen från handleden.
+86 Hur mycket video sparas?
+87 Den håller en slinga av de senaste 15, 30 eller 60 sekunderna, som du väljer. En video sparas bara när du visar handflatan, trycker på Spara klipp eller, om du slår på det, när ett långt rally tar slut.
+88 Går mina videor någonstans?
+89 Nej. Det finns inga konton eller servrar: videor, namn och ställningar stannar på din enhet och lämnar den bara om du delar dem.
+90 Vad behöver jag för att använda den?
+91 En iPhone eller iPad med iOS 17 eller senare. För klockan en Apple Watch med watchOS 10 eller senare.
+92 NU TILLGÄNGLIG
+93 PlayBack Padel<br>är på banan.
+94 Ladda ner den gratis i App Store för iPhone och iPad.
+95 Ladda ner i App Store
+96 Support
+97 Integritet

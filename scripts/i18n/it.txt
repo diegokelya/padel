@@ -1,0 +1,96 @@
+0 PlayBack Padel — Il tuo miglior punto, sempre pronto
+1 PlayBack Padel trasforma il tuo iPhone o iPad in una fotocamera per i replay di padel: salva la giocata con un gesto, rivedila al rallentatore con il VAR e tieni il punteggio della partita.
+2 Vai al contenuto
+5 Gesti
+6 Funzioni
+7 Scarica
+8 REPLAY E PUNTEGGIO DAL VIVO
+9 Il tuo miglior punto.<br><em>Un gesto</em> per salvarlo.
+10 PlayBack Padel trasforma un iPhone in una fotocamera per i replay e in un tabellone dal vivo per la tua partita.
+11 Scarica gratis
+12 Scopri come funziona
+13 Tabellone di esempio: Squadra A 40, Squadra B 30, giocata salvata
+14 SQUADRA A
+15 SQUADRA B
+16 GIOCATA SALVATA
+17 Niente accessori né abbonamenti. Solo la partita, le tue giocate migliori e un punteggio che tutti possono vedere.
+18 CONTROLLA LA PARTITA
+19 I gesti si capiscono<br>a colpo d'occhio.
+20 Punto squadra A
+21 Indica a sinistra per un secondo, poi conferma con il palmo.
+22 Annulla
+23 Indica in basso e conferma con il palmo per correggere l'ultimo punto.
+24 Punto squadra B
+25 Indica a destra per un secondo, poi conferma con il palmo.
+26 Salva una giocata
+27 Mostra il palmo aperto per un secondo.
+28 Attiva il VAR
+29 Due palmi separati, tenuti per un secondo, aprono il replay al rallentatore.
+30 PENSATA PER IL CAMPO
+31 Tutto quello che ti serve<br>tra un punto e l'altro.
+32 Replay istantaneo
+33 Salva gli ultimi 15, 30 o 60 secondi senza fermare la fotocamera.
+34 VAR al rallentatore
+35 Rivedi la giocata a ½×, ¼× o fotogramma per fotogramma. Tocca due volte per ingrandire dove vuoi.
+36 VAR sulle giocate salvate
+37 Ogni VAR viene salvato come giocata, con la sua etichetta. Riaprilo su qualsiasi giocata, partendo un momento prima di quello che stavi guardando.
+38 Punteggio completo della partita
+39 Set, game, tie-break sul 6–6 e punto d'oro facoltativo. Aggiungi o annulla con i gesti o con un pulsante.
+40 Cronologia delle partite
+41 Ogni partita viene salvata con il punteggio per set, la data e le sue giocate. Guarda come è andata ed elimina quello che vuoi.
+42 Punteggio su due dispositivi
+43 Mostra il punteggio su un altro iPhone o iPad vicino, senza internet, abbinato con un codice partita.
+44 Per iPhone e iPad
+45 L'app funziona anche su iPad, a schermo intero e in orizzontale.
+46 Apple Watch
+47 Aggiungi punti, annulla, salva la giocata e apri il VAR dal polso, con il punteggio sull'orologio.
+48 Chi serve
+49 Il tabellone mostra chi serve a ogni punto: cambia da solo a ogni game e segue il tie-break.
+50 Condividi con il punteggio
+51 Invia una giocata con il punteggio disegnato nell'angolo, pronta per WhatsApp. L'originale non viene toccato.
+52 Rally lungo (beta)
+53 Guarda il campo con la fotocamera e salva solo i rally più lunghi di 8 secondi, dall'inizio alla fine.
+54 Highlight della partita o del giorno
+55 Un video fino a 1 minuto con le tue giocate migliori, solo con gioco vero (l'app ascolta i colpi) e ognuna con il suo punteggio. Quello del giorno rivede tutte le tue partite. Resta salvato nell'app per guardarlo o condividerlo.
+56 Le tue giocate restano sul tuo dispositivo
+57 Niente account, server o pubblicità. I video non lasciano mai il dispositivo, a meno che tu non li condivida.
+58 SCOPRI COME FUNZIONA
+59 Tutto in<br>40 secondi.
+60 Illustrazione con dati di esempio.
+61 Video dimostrativo di PlayBack Padel: salvare una giocata con il palmo, segnare i punti indicando, VAR al rallentatore e highlight del giorno
+62 L'APP DA DENTRO
+63 Ecco come si vede<br>in campo.
+64 Tabellone a schermo intero con set, game e punti.
+65 Tabellone a schermo intero di PlayBack Padel: Squadra A 40, Squadra B 30, con i set
+66 Tre gesti per gestire la partita senza toccare il telefono.
+67 Gesti di PlayBack Padel: indicare per segnare, palmo aperto per salvare la giocata, due palmi per il VAR
+68 VAR, highlight del giorno, condivisione con il punteggio e nessun account.
+69 Funzioni di PlayBack Padel: VAR al rallentatore, highlight del giorno, condivisione con il punteggio, nessun account né internet
+70 Cronologia delle partite con le sue giocate.
+71 Cronologia delle partite di PlayBack Padel
+72 Anche al polso
+73 Con l'Apple Watch aggiungi punti, annulli, salvi la giocata e apri il VAR senza toccare l'iPhone appoggiato alla rete. È facoltativo.
+74 Apple Watch che mostra il punteggio 40–30 con i pulsanti +1, annulla, salva giocata e VAR
+75 Apple Watch con l'avviso di attivare il punteggio sull'iPhone
+76 Apple Watch con l'avviso di partita terminata
+77 Schermate con dati di esempio.
+78 DOMANDE FREQUENTI
+79 Quello che quasi<br>tutti chiedono.
+80 Serve internet?
+81 No. Tutto funziona sul dispositivo. Il punteggio condiviso tra due iPhone o iPad usa Wi-Fi o Bluetooth, senza internet.
+82 A che distanza funzionano i gesti?
+83 Fino a circa 1,5 metri dalla fotocamera. Per giocare più lontano ci sono i pulsanti del tabellone e l'Apple Watch.
+84 Serve un Apple Watch?
+85 No. Bastano i gesti e i pulsanti sullo schermo. L'orologio è un extra per gestire la partita dal polso.
+86 Quanto video conserva?
+87 Conserva un ciclo degli ultimi 15, 30 o 60 secondi, a tua scelta. Un video viene salvato solo quando mostri il palmo, tocchi Salva giocata o, se lo attivi, termina un rally lungo.
+88 I miei video vanno da qualche parte?
+89 No. Non ci sono account né server: video, nomi e punteggi restano sul tuo dispositivo e escono solo se li condividi.
+90 Che cosa mi serve per usarla?
+91 Un iPhone o iPad con iOS 17 o successivo. Per l'orologio, un Apple Watch con watchOS 10 o successivo.
+92 GIÀ DISPONIBILE
+93 PlayBack Padel<br>è in campo.
+94 Scaricala gratis dall'App Store per iPhone e iPad.
+95 Scarica dall'App Store
+96 Assistenza
+97 Privacy
