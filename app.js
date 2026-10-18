@@ -120,7 +120,18 @@ const shots = {
   en: { scoreboard: 'slide-en-scoreboard', gestures: 'slide-en-gestures', features: 'slide-en-features', matches: 'slide-en-matches', watch1: 'watch-en-01-match', watch2: 'watch-en-02-scoring-off', watch3: 'watch-en-03-match-finished' }
 };
 
-if (typeof extraCopy !== 'undefined') Object.assign(copy, extraCopy);
+// Spanish and English are here; every other language is a small file (copy/<code>.js) loaded only when it is needed.
+const supported = ['es', 'en', 'it', 'pt', 'de', 'fr', 'sv', 'nl'];
+function loadCopy(code) {
+  if (code in copy) return Promise.resolve();
+  return new Promise(resolve => {
+    const script = document.createElement('script');
+    script.src = `copy/${code}.js`;
+    script.onload = () => { Object.assign(copy, window.extraCopy || {}); resolve(); };
+    script.onerror = () => resolve();
+    document.head.appendChild(script);
+  });
+}
 const imageLanguage = code => (code === 'es' ? 'es' : 'en');
 
 const store = {
@@ -131,13 +142,13 @@ const store = {
 // ?lang=en > saved choice > browser language > Spanish.
 function initialLanguage() {
   const param = new URLSearchParams(location.search).get('lang');
-  if (param in copy) return param;
+  if (supported.includes(param)) return param;
   const saved = store.get();
-  if (saved in copy) return saved;
+  if (supported.includes(saved)) return saved;
   // The first browser language we have a translation of; English for any other; Spanish when it is not known.
   for (const preferred of navigator.languages || [navigator.language || '']) {
     const code = preferred.toLowerCase().slice(0, 2);
-    if (code in copy) return code;
+    if (supported.includes(code)) return code;
   }
   return navigator.language ? 'en' : 'es';
 }
@@ -170,13 +181,19 @@ function render() {
   document.getElementById('language').value = lang;
 }
 
-document.getElementById('language').addEventListener('change', event => {
-  lang = event.target.value;
+document.getElementById('language').addEventListener('change', async event => {
+  const chosen = event.target.value;
+  await loadCopy(chosen);
+  lang = chosen in copy ? chosen : 'en';
   store.set(lang);
   render();
 });
 
-render();
+// Spanish and English draw at once; another language draws as soon as its file arrives (English if it cannot).
+loadCopy(lang).then(() => {
+  if (!(lang in copy)) lang = 'en';
+  render();
+});
 
 // The demo plays by itself, muted and in a loop, while it is on screen, and stops when it leaves. Visitors who ask for
 // less motion keep the controls and press play themselves.
