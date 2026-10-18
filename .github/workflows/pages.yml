@@ -31,7 +31,9 @@ jobs:
       - name: Build _site
         run: |
           mkdir -p _site/assets _site/support _site/privacy
-          cp index.html 404.html app.js copy.extra.js styles.css legal.css sitemap.xml _site/
+          cp index.html 404.html app.js styles.css legal.css sitemap.xml _site/
+          mkdir -p _site/copy
+          cp copy/*.js _site/copy/
           cp support/*.html _site/support/
           cp privacy/*.html _site/privacy/
           cp assets/logo-128.png assets/logo-128.webp assets/apple-touch-icon.png assets/og-image.png _site/assets/

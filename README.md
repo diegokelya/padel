@@ -10,7 +10,7 @@ Este repositorio contiene solo los archivos públicos del sitio. El código de l
 |---|---|
 | `index.html` | Página única, con metadatos para buscadores y redes (Open Graph). |
 | `app.js` | Textos en español e inglés, y la lógica de la página. Elige el idioma por `?lang=xx`, después la última elección guardada y después el idioma del navegador (hay ocho: es, en, it, pt, de, fr, sv, nl). |
-| `copy.extra.js` | **Generado.** Los textos de la página en italiano, portugués, alemán, francés, sueco y neerlandés (`python3 scripts/build-copy.py`, desde `scripts/i18n/<idioma>.txt`). |
+| `copy/<idioma>.js` | **Generados.** Los textos de la página en italiano, portugués, alemán, francés, sueco y neerlandés, un archivo chico por idioma que `app.js` baja solo si hace falta (`python3 scripts/build-copy.py`, desde `scripts/i18n/<idioma>.txt`). |
 | `styles.css` | Estilos, sin dependencias externas. |
 | `support/` | Soporte (`index.html` en español, `en.html` en inglés, y `it`, `pt`, `de`, `fr`, `sv`, `nl` **generados** con `python3 scripts/build-pages.py` a partir de `en.html` y `scripts/i18n/support-<idioma>.txt`). Es la URL de soporte de App Store Connect. |
 | `privacy/` | Política de privacidad (`index.html` / `en.html`, y los otros seis idiomas generados igual). Es la URL de privacidad de App Store Connect. |
