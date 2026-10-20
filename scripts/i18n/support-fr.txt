@@ -5,7 +5,7 @@
 4 Télécharge PlayBack Padel sur l'App Store et ouvre-le.
 5 Autorise l'accès à la <b>Caméra</b> et, si tu veux du son dans tes actions, au <b>Micro</b>.
 6 Pose l'appareil à l'horizontale, face au terrain, et attends que le tampon se remplisse.
-7 Dans <b>Commandes</b>, choisis les joueurs, la caméra, le format vidéo et la durée de la boucle.
+7 Dans <b>Réglages</b>, choisis les joueurs, la caméra, le format vidéo et la durée de la boucle.
 8 Gestes
 9 Les directions se lisent comme elles apparaissent à l'écran : la colonne de gauche est l'équipe A et celle de droite l'équipe B. Garde le geste pendant une seconde (tous les gestes demandent la même durée) et baisse la main avant de le répéter.
 10 <b>👈 Point équipe A :</b> pointe vers la gauche avec l'index ou la raquette.
@@ -17,7 +17,7 @@
 16 <b>Marquer en deux étapes :</b> pour qu'un mouvement au hasard n'ajoute pas de points, tu pointes d'abord (cela prépare seulement le point) puis tu montres la paume ouverte pendant une seconde, dans les 5 secondes qui suivent. Si tu ne confirmes pas, rien ne se passe. Tu peux le désactiver dans Réglages → <b>Confirmer avec la paume</b>.
 17 Tant que <b>Actions</b> ou <b>Matchs</b> sont ouverts, les gestes sont en pause : une main près du téléphone n'ajoute pas de points et n'enregistre pas d'actions.
 18 Tableau des scores
-19 Le tableau des scores gère des matchs en deux sets gagnants et compte les jeux automatiquement. À 6–6, on joue un tie-break à 7 points, avec deux points d'écart. Dans Commandes, tu peux activer le <b>Point en or</b> : le point à 40–40 décide le jeu ; désactivé, on joue avec avantage. Les couleurs des équipes se choisissent dans <b>Commandes → Joueurs</b>.
+19 Le tableau des scores gère des matchs en deux sets gagnants et compte les jeux automatiquement. À 6–6, on joue un tie-break à 7 points, avec deux points d'écart. Dans Réglages, tu peux activer le <b>Point en or</b> : le point à 40–40 décide le jeu ; désactivé, on joue avec avantage. Les couleurs des équipes se choisissent dans <b>Réglages</b> (en touchant les noms des équipes).
 20 VAR
 21 Montre les deux paumes ou touche <b>VAR</b>. Le replay des 15 s, 30 s ou 1 minute dernières (selon ton réglage) s'ouvre au ralenti à ½×, avec les options 1× et ¼× et l'avance image par image. Touche deux fois pour zoomer exactement là où tu veux regarder. Tu peux aussi ouvrir la VAR sur une action enregistrée. La VAR ne modifie ni ne supprime jamais tes vidéos.
 22 Actions enregistrées
@@ -34,8 +34,8 @@
 33 Dans le menu ⋯ du tableau des scores, choisis <b>Qui sert en premier ?</b>. Ensuite, une balle indique qui sert à chaque point : le service change d'équipe à chaque jeu, alterne entre les partenaires et suit le tie-break. Il est calculé à partir du score, donc annuler un point le fait revenir tout seul. Il s'affiche aussi sur l'Apple Watch.
 34 Apple Watch
 35 L'app de la montre (watchOS 10 ou plus récent) s'installe depuis l'app Watch sur l'iPhone. Elle affiche le score et te permet d'<b>ajouter des points, d'annuler, d'enregistrer une action et d'ouvrir la VAR</b> depuis ton poignet. Les boutons de points demandent le score par gestes activé ; enregistrer une action et la VAR demandent la caméra en marche. Quand tu touches <b>Enregistrer l'action</b> ou <b>VAR</b>, la montre affiche « Enregistrement… » puis « Action enregistrée » ou « VAR prête sur l'iPhone », avec une vibration. En cas d'échec, elle indique « Échec ». Si la montre dit « iPhone injoignable », rapproche-la de l'iPhone et ouvre l'app.
-36 Score sur deux appareils
-37 Active <b>Diffuser le score à proximité</b> sur les deux appareils et saisis le même code de match à 4 chiffres. Ils se trouvent par Wi-Fi ou Bluetooth, sans internet. La première fois, iOS demande l'autorisation <b>Réseau local</b>. L'appareil qui tient le score est celui qui commande.
+36 Score et caméras sur plusieurs appareils
+37 Active <b>Diffuser le score à proximité</b> sur les deux appareils et saisis le même code de match à 4 chiffres. Ils se trouvent par Wi-Fi ou Bluetooth, sans internet. La première fois, iOS demande l'autorisation <b>Réseau local</b>. L'appareil qui tient le score est celui qui commande. Pour filmer sous plusieurs angles, active <b>Se connecter à d'autres caméras</b> avec le même code (le tableau des scores n'est pas nécessaire) : quand tu enregistres une action, les autres caméras enregistrent la leur et te l'envoient, et elle apparaît parmi les actions comme angle supplémentaire.
 38 Langue
 39 L'app utilise la langue de ton téléphone : espagnol, anglais, italien, portugais, allemand, français, suédois ou néerlandais (sinon l'espagnol). Tu peux en choisir une autre dans <b>Réglages → Langue</b>, ou dans les Réglages de l'iPhone → PlayBack Padel → Langue.
 40 Autorisations

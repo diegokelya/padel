@@ -5,7 +5,7 @@
 4 Scarica PlayBack Padel dall'App Store e aprilo.
 5 Consenti l'accesso alla <b>Fotocamera</b> e, se vuoi l'audio nelle tue giocate, al <b>Microfono</b>.
 6 Appoggia il dispositivo in orizzontale, rivolto verso il campo, e aspetta che il buffer si riempia.
-7 In <b>Comandi</b> scegli i giocatori, la fotocamera, il formato video e la durata del ciclo.
+7 In <b>Impostazioni</b> scegli i giocatori, la fotocamera, il formato video e la durata del ciclo.
 8 Gesti
 9 Le direzioni si leggono come appaiono sullo schermo: la colonna a sinistra è la squadra A e quella a destra la squadra B. Mantieni il gesto per un secondo (tutti i gesti richiedono lo stesso tempo) e abbassa la mano prima di ripeterlo.
 10 <b>👈 Punto squadra A:</b> indica a sinistra con l'indice o con la racchetta.
@@ -17,7 +17,7 @@
 16 <b>Punteggio in due passaggi:</b> per evitare che un movimento casuale aggiunga punti, prima indichi (questo prepara soltanto il punto) e poi mostri il palmo aperto per un secondo, entro i 5 secondi successivi. Se non confermi, non succede nulla. Puoi disattivarlo in Impostazioni → <b>Conferma con il palmo</b>.
 17 Mentre <b>Giocate</b> o <b>Partite</b> sono aperte, i gesti sono in pausa: una mano vicino al telefono non aggiunge punti né salva giocate.
 18 Tabellone
-19 Il tabellone gestisce partite al meglio dei tre set e conta i game in automatico. Sul 6–6 si gioca un tie-break a 7 punti, con due di vantaggio. In Comandi puoi attivare il <b>Punto d'oro</b>: il punto sul 40–40 decide il game; se è disattivato, si gioca con il vantaggio. I colori delle squadre si scelgono in <b>Comandi → Giocatori</b>.
+19 Il tabellone gestisce partite al meglio dei tre set e conta i game in automatico. Sul 6–6 si gioca un tie-break a 7 punti, con due di vantaggio. In Impostazioni puoi attivare il <b>Punto d'oro</b>: il punto sul 40–40 decide il game; se è disattivato, si gioca con il vantaggio. I colori delle squadre si scelgono in <b>Impostazioni</b> (toccando i nomi delle squadre).
 20 VAR
 21 Mostra i due palmi o tocca <b>VAR</b>. Si apre il replay degli ultimi 15 s, 30 s o 1 minuto (secondo le tue impostazioni) al rallentatore a ½×, con le opzioni 1× e ¼× e avanzamento fotogramma per fotogramma. Tocca due volte per ingrandire proprio dove vuoi guardare. Puoi aprire il VAR anche su una giocata salvata. Il VAR non modifica né elimina mai i tuoi video.
 22 Giocate salvate
@@ -34,8 +34,8 @@
 33 Nel menu ⋯ del tabellone scegli <b>Chi serve per primo?</b>. Da quel momento una pallina indica chi serve a ogni punto: il servizio cambia squadra a ogni game, si alterna tra i compagni e segue il tie-break. Viene calcolato dal punteggio, quindi annullando un punto torna da solo. Si vede anche sull'Apple Watch.
 34 Apple Watch
 35 L'app per l'orologio (watchOS 10 o successivo) si installa dall'app Watch sull'iPhone. Mostra il punteggio e ti permette di <b>aggiungere punti, annullare, salvare una giocata e aprire il VAR</b> dal polso. I pulsanti dei punti richiedono il punteggio a gesti attivo; salvare una giocata e il VAR richiedono la fotocamera attiva. Quando tocchi <b>Salva giocata</b> o <b>VAR</b>, l'orologio mostra “Salvataggio…” e poi “Giocata salvata” o “VAR pronto sull'iPhone”, con una vibrazione. Se non riesce, dice “Non è andata”. Se l'orologio dice “iPhone non raggiungibile”, avvicinalo all'iPhone e apri l'app.
-36 Punteggio su due dispositivi
-37 Attiva <b>Trasmetti il punteggio ai dispositivi vicini</b> su entrambi i dispositivi e inserisci lo stesso codice partita di 4 cifre. Si trovano tramite Wi-Fi o Bluetooth, senza internet. La prima volta, iOS chiede il permesso <b>Rete locale</b>. Comanda il dispositivo che tiene il punteggio.
+36 Punteggio e fotocamere su più dispositivi
+37 Attiva <b>Trasmetti il punteggio ai dispositivi vicini</b> su entrambi i dispositivi e inserisci lo stesso codice partita di 4 cifre. Si trovano tramite Wi-Fi o Bluetooth, senza internet. La prima volta, iOS chiede il permesso <b>Rete locale</b>. Comanda il dispositivo che tiene il punteggio. Per filmare da più angolazioni, attiva <b>Collega altre fotocamere</b> con lo stesso codice (non serve il tabellone): quando salvi una giocata, le altre fotocamere salvano la loro e te la inviano, e la vedi tra le giocate come angolazione extra.
 38 Lingua
 39 L'app usa la lingua del tuo telefono: spagnolo, inglese, italiano, portoghese, tedesco, francese, svedese o olandese (altrimenti spagnolo). Puoi sceglierne un'altra in <b>Impostazioni → Lingua</b>, oppure nelle Impostazioni dell'iPhone → PlayBack Padel → Lingua.
 40 Permessi

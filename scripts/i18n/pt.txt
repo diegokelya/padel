@@ -38,8 +38,8 @@
 39 Sets, games, tie-break em 6–6 e ponto de ouro opcional. Marque ou desfaça com gestos ou com um botão.
 40 Histórico de partidas
 41 Cada partida é salva com o placar por set, a data e as suas jogadas. Veja como foi e apague o que quiser.
-42 Placar em dois dispositivos
-43 Mostre o placar em outro iPhone ou iPad por perto, sem internet, com um código de partida.
+42 Várias câmeras e placar compartilhado
+43 Conecte vários iPhones ou iPads próximos: mostre o placar ao vivo e reúna os ângulos de todas as câmeras em cada jogada, sem internet, com um código de partida.
 44 Para iPhone e iPad
 45 O app também funciona no iPad, em tela cheia e na horizontal.
 46 Apple Watch

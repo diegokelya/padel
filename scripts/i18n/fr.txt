@@ -38,8 +38,8 @@
 39 Sets, jeux, tie-break à 6–6 et point en or facultatif. Ajoute ou annule avec les gestes ou avec un bouton.
 40 Historique des matchs
 41 Chaque match est enregistré avec son score par set, la date et ses actions. Regarde comment ça s'est passé et supprime ce que tu veux.
-42 Score sur deux appareils
-43 Affiche le score sur un autre iPhone ou iPad à proximité, sans internet, associé avec un code de match.
+42 Plusieurs caméras et score partagé
+43 Connecte plusieurs iPhone ou iPad proches : affiche le score en direct et rassemble les angles de toutes les caméras pour chaque action, sans internet, avec un code de match.
 44 Pour iPhone et iPad
 45 L'app fonctionne aussi sur iPad, en plein écran et en paysage.
 46 Apple Watch

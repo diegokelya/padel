@@ -5,7 +5,7 @@
 4 Lade PlayBack Padel aus dem App Store und öffne die App.
 5 Erlaube den Zugriff auf die <b>Kamera</b> und, wenn du Ton in deinen Spielzügen willst, auf das <b>Mikrofon</b>.
 6 Stelle das Gerät im Querformat auf, mit Blick auf den Platz, und warte, bis sich der Puffer füllt.
-7 Wähle unter <b>Steuerung</b> die Spieler, die Kamera, das Videoformat und die Länge der Schleife.
+7 Wähle unter <b>Einstellungen</b> die Spieler, die Kamera, das Videoformat und die Länge der Schleife.
 8 Gesten
 9 Die Richtungen werden so gelesen, wie sie auf dem Bildschirm erscheinen: Die linke Spalte ist Team A, die rechte Spalte ist Team B. Halte die Geste eine Sekunde lang (jede Geste verlangt dasselbe) und senke die Hand, bevor du sie wiederholst.
 10 <b>👈 Punkt Team A:</b> zeige mit dem Zeigefinger oder dem Schläger nach links.
@@ -17,7 +17,7 @@
 16 <b>Zählen in zwei Schritten:</b> Damit eine zufällige Bewegung keine Punkte zählt, zeigst du zuerst (das macht den Punkt nur bereit) und dann eine Sekunde lang die offene Handfläche, innerhalb der nächsten 5 Sekunden. Wenn du nicht bestätigst, passiert nichts. Du kannst es in den Einstellungen unter <b>Mit der Handfläche bestätigen</b> ausschalten.
 17 Solange <b>Spielzüge</b> oder <b>Matches</b> geöffnet sind, sind die Gesten pausiert: Eine Hand in der Nähe des Telefons zählt keine Punkte und speichert keine Spielzüge.
 18 Anzeigetafel
-19 Die Anzeigetafel zählt Matches im Best-of-three-Sätze-Modus und rechnet die Spiele automatisch. Bei 6–6 wird ein Tie-Break bis 7 Punkte gespielt, mit zwei Punkten Vorsprung. Unter Steuerung kannst du den <b>Golden Point</b> einschalten: Der Punkt bei 40–40 entscheidet das Spiel; ausgeschaltet wird mit Vorteil gespielt. Die Teamfarben wählst du unter <b>Steuerung → Spieler</b>.
+19 Die Anzeigetafel zählt Matches im Best-of-three-Sätze-Modus und rechnet die Spiele automatisch. Bei 6–6 wird ein Tie-Break bis 7 Punkte gespielt, mit zwei Punkten Vorsprung. Unter Einstellungen kannst du den <b>Golden Point</b> einschalten: Der Punkt bei 40–40 entscheidet das Spiel; ausgeschaltet wird mit Vorteil gespielt. Die Teamfarben wählst du unter <b>Einstellungen</b> (tippe auf die Teamnamen).
 20 VAR
 21 Zeige beide Handflächen oder tippe auf <b>VAR</b>. Die Wiederholung der letzten 15 s, 30 s oder 1 Minute (je nach Einstellung) öffnet sich in Zeitlupe mit ½×, mit den Optionen 1× und ¼× und Einzelbild-Schaltung. Doppeltippen zoomt genau dorthin, wo du hinschauen willst. Du kannst das VAR auch bei einem gespeicherten Spielzug öffnen. Das VAR bearbeitet oder löscht deine Videos nie.
 22 Gespeicherte Spielzüge
@@ -34,8 +34,8 @@
 33 Wähle im ⋯-Menü der Anzeigetafel <b>Wer schlägt zuerst auf?</b>. Danach zeigt ein Ball bei jedem Punkt, wer aufschlägt: Der Aufschlag wechselt mit jedem Spiel das Team, wechselt zwischen den Partnern und folgt dem Tie-Break. Er wird aus dem Spielstand berechnet, deshalb kommt er beim Rückgängigmachen eines Punktes von selbst zurück. Er erscheint auch auf der Apple Watch.
 34 Apple Watch
 35 Die Uhr-App (watchOS 10 oder neuer) wird über die Watch-App auf dem iPhone installiert. Sie zeigt den Spielstand und lässt dich vom Handgelenk aus <b>Punkte zählen, rückgängig machen, einen Spielzug speichern und das VAR öffnen</b>. Die Punkt-Buttons brauchen eingeschaltetes Zählen per Geste; Spielzug speichern und VAR brauchen die laufende Kamera. Wenn du auf <b>Spielzug speichern</b> oder <b>VAR</b> tippst, zeigt die Uhr „Wird gesichert…“ und dann „Spielzug gesichert“ oder „VAR bereit auf dem iPhone“, mit einer Vibration. Wenn es nicht klappt, steht dort „Hat nicht geklappt“. Wenn die Uhr „iPhone nicht erreichbar“ sagt, halte sie näher ans iPhone und öffne die App.
-36 Spielstand auf zwei Geräten
-37 Schalte auf beiden Geräten <b>Spielstand in der Nähe übertragen</b> ein und gib denselben vierstelligen Match-Code ein. Sie finden sich über WLAN oder Bluetooth, ohne Internet. Beim ersten Mal fragt iOS nach der Berechtigung <b>Lokales Netzwerk</b>. Das Gerät, das den Spielstand führt, hat das Sagen.
+36 Spielstand und Kameras auf mehreren Geräten
+37 Schalte auf beiden Geräten <b>Spielstand in der Nähe übertragen</b> ein und gib denselben vierstelligen Match-Code ein. Sie finden sich über WLAN oder Bluetooth, ohne Internet. Beim ersten Mal fragt iOS nach der Berechtigung <b>Lokales Netzwerk</b>. Das Gerät, das den Spielstand führt, hat das Sagen. Um aus mehreren Blickwinkeln zu filmen, schalte mit demselben Code <b>Mit anderen Kameras verbinden</b> ein (die Anzeigetafel brauchst du dafür nicht): Wenn du einen Spielzug speicherst, speichern die anderen Kameras ihren und senden ihn dir, und er erscheint bei den Spielzügen als zusätzlicher Blickwinkel.
 38 Sprache
 39 Die App nutzt die Sprache deines Telefons: Spanisch, Englisch, Italienisch, Portugiesisch, Deutsch, Französisch, Schwedisch oder Niederländisch (sonst Spanisch). Du kannst unter <b>Einstellungen → Sprache</b> eine andere wählen, oder in den iPhone-Einstellungen → PlayBack Padel → Sprache.
 40 Berechtigungen
