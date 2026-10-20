@@ -63,5 +63,5 @@
 62 Le score partagé ne se connecte pas
 63 Vérifie que les deux appareils utilisent le même code, ont l'autorisation Réseau local activée et le Wi-Fi ou le Bluetooth allumé.
 64 Contact
-65 Pour toute question, erreur ou suggestion, ouvre un ticket sur <a href="https://github.com/diegokelya/playback-padel-site/issues">GitHub</a>. Cette page est publique : n'y mets ni données personnelles ni vidéos.
+65 Pour toute question, erreur ou suggestion, ouvre un ticket sur <a href="https://github.com/diegokelya/padel/issues">GitHub</a>. Cette page est publique : n'y mets ni données personnelles ni vidéos.
 66 Politique de confidentialité : <a href="../privacy/en.html">lire</a>.

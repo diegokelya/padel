@@ -63,5 +63,5 @@
 62 Il punteggio condiviso non si collega
 63 Controlla che entrambi i dispositivi usino lo stesso codice, abbiano il permesso Rete locale attivo e il Wi-Fi o il Bluetooth acceso.
 64 Contatti
-65 Per domande, errori o suggerimenti, apri una segnalazione su <a href="https://github.com/diegokelya/playback-padel-site/issues">GitHub</a>. Quella pagina è pubblica: non includere dati personali né video.
+65 Per domande, errori o suggerimenti, apri una segnalazione su <a href="https://github.com/diegokelya/padel/issues">GitHub</a>. Quella pagina è pubblica: non includere dati personali né video.
 66 Informativa sulla privacy: <a href="../privacy/en.html">leggi</a>.

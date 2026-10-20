@@ -1,6 +1,6 @@
 # PlayBack Padel — sitio público
 
-Landing bilingüe (español / inglés) de PlayBack Padel: https://diegokelya.github.io/playback-padel-site/
+Landing bilingüe (español / inglés) de PlayBack Padel: https://playb.app/padel/
 
 Este repositorio contiene solo los archivos públicos del sitio. El código de la app vive en otro repositorio.
 

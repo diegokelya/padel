@@ -63,5 +63,5 @@
 62 De gedeelde stand maakt geen verbinding
 63 Controleer of beide apparaten dezelfde code gebruiken, toestemming voor Lokaal netwerk hebben en wifi of Bluetooth aan staat.
 64 Contact
-65 Voor vragen, fouten of suggesties open je een issue op <a href="https://github.com/diegokelya/playback-padel-site/issues">GitHub</a>. Die pagina is openbaar: vermeld geen persoonsgegevens of video's.
+65 Voor vragen, fouten of suggesties open je een issue op <a href="https://github.com/diegokelya/padel/issues">GitHub</a>. Die pagina is openbaar: vermeld geen persoonsgegevens of video's.
 66 Privacybeleid: <a href="../privacy/en.html">lezen</a>.

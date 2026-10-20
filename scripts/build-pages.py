@@ -13,7 +13,7 @@ import re
 import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-BASE = 'https://diegokelya.github.io/playback-padel-site'
+BASE = 'https://playb.app/padel'
 LANGS = ['it', 'pt', 'de', 'fr', 'sv', 'nl']
 NAMES = {'es': 'Español', 'en': 'English', 'it': 'Italiano', 'pt': 'Português', 'de': 'Deutsch', 'fr': 'Français', 'sv': 'Svenska', 'nl': 'Nederlands'}
 HTML_LANG = {'pt': 'pt-BR'}

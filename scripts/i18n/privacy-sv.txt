@@ -21,5 +21,5 @@
 20 Behörigheter
 21 Du kan ändra behörigheterna för Kamera, Mikrofon, Bilder och Lokalt nätverk i iOS Inställningar.
 22 Ändringar och kontakt
-23 Om den här policyn ändras uppdateras den här med ett nytt datum. För frågor, skapa ett ärende på <a href="https://github.com/diegokelya/playback-padel-site/issues">GitHub</a>, utan att ange personuppgifter.
+23 Om den här policyn ändras uppdateras den här med ett nytt datum. För frågor, skapa ett ärende på <a href="https://github.com/diegokelya/padel/issues">GitHub</a>, utan att ange personuppgifter.
 24 <a href="../support/en.html">Tillbaka till support</a>

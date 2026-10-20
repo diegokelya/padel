@@ -21,5 +21,5 @@
 20 Permessi
 21 Puoi modificare i permessi di Fotocamera, Microfono, Foto e Rete locale nelle Impostazioni di iOS.
 22 Modifiche e contatti
-23 Se questa informativa cambia, verrà aggiornata qui con una nuova data. Per domande, apri una segnalazione su <a href="https://github.com/diegokelya/playback-padel-site/issues">GitHub</a>, senza includere dati personali.
+23 Se questa informativa cambia, verrà aggiornata qui con una nuova data. Per domande, apri una segnalazione su <a href="https://github.com/diegokelya/padel/issues">GitHub</a>, senza includere dati personali.
 24 <a href="../support/en.html">Torna all'assistenza</a>
