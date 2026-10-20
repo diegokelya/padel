@@ -1,6 +1,6 @@
 0 PRIVACY
 1 Informativa sulla privacy
-2 Ultimo aggiornamento: 17 ottobre 2026.
+2 Ultimo aggiornamento: 20 ottobre 2026.
 3 Riepilogo
 4 PlayBack Padel non ha account, non ha un server proprio, non ha analisi, non ha pubblicità, non fa tracciamento e non ha acquisti in-app. Lo sviluppatore non riceve i tuoi video, il tuo audio, i tuoi nomi né i tuoi punteggi.
 5 Dati che l'app usa
@@ -9,13 +9,13 @@
 8 <b>IA sul dispositivo (facoltativa):</b> sui dispositivi con Apple Intelligence, l'highlight può usare il modello linguistico del dispositivo per scegliere le giocate. Riceve solo dati come l'ora, il punteggio e la durata di ogni giocata, mai il video né l'audio, e tutto avviene sul tuo dispositivo. Puoi disattivarla in Impostazioni.
 9 <b>Foto, solo aggiunta (facoltativo):</b> copia in Foto solo le giocate che scegli.
 10 <b>Apple Watch (facoltativo):</b> se usi l'app per l'orologio, l'iPhone gli invia il punteggio e i nomi delle squadre, e l'orologio invia comandi (aggiungere un punto, annullare, salvare una giocata, VAR). Viaggia direttamente tra il tuo iPhone e il tuo orologio, senza internet e senza server.
-11 <b>Rete locale (facoltativa):</b> collega due dispositivi vicini per mostrare il punteggio.
+11 <b>Rete locale (facoltativa):</b> collega dispositivi vicini per mostrare il punteggio e per passarsi le giocate tra le fotocamere.
 12 Archiviazione
 13 Video, nomi dei giocatori, punteggi, cronologia delle partite e relative giocate sono conservati in locale sul tuo iPhone o iPad. Puoi eliminare giocate, partite o l'app in qualsiasi momento. Eliminare una giocata elimina anche il suo punteggio; le copie in Foto restano.
 14 Punteggio condiviso
-15 Se attivi <b>Trasmetti il punteggio ai dispositivi vicini</b>, il tuo dispositivo invia solo i nomi dei giocatori e il punteggio a un altro dispositivo vicino che usa lo stesso codice partita. La connessione è diretta tra i dispositivi tramite Wi-Fi o Bluetooth, senza internet e senza server; i messaggi sono cifrati e firmati. Non viene inviato né video né audio.
+15 Se attivi <b>Trasmetti il punteggio ai dispositivi vicini</b>, il tuo dispositivo invia solo i nomi dei giocatori e il punteggio a un altro dispositivo vicino che usa lo stesso codice partita. La connessione è diretta tra i dispositivi tramite Wi-Fi o Bluetooth, senza internet e senza server; i messaggi sono cifrati e firmati. Il punteggio non include mai video né audio.
 16 Condivisione
-17 Un video lascia il dispositivo solo se scegli di condividerlo o di copiarlo in Foto.
+17 Un video lascia il dispositivo solo se scegli di condividerlo o di copiarlo in Foto. Eccezione: se attivi <b>Collega altre fotocamere</b>, quando salvi una giocata il tuo dispositivo chiede agli altri dispositivi con lo stesso codice di salvare la loro, e questi ti inviano direttamente il loro video di quella giocata (con la stessa connessione cifrata via Wi-Fi o Bluetooth, senza internet e senza server). Quei video restano sul tuo dispositivo come le tue giocate.
 18 Minori
 19 L'app non raccoglie dati personali da nessun utente, compresi i minori.
 20 Permessi
