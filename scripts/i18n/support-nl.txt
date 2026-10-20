@@ -5,7 +5,7 @@
 4 Download PlayBack Padel uit de App Store en open de app.
 5 Sta toegang tot de <b>Camera</b> toe en, als je geluid in je fragmenten wilt, tot de <b>Microfoon</b>.
 6 Zet het apparaat horizontaal neer, gericht op de baan, en wacht tot de buffer gevuld is.
-7 Kies bij <b>Bediening</b> de spelers, de camera, het videoformaat en de lengte van de lus.
+7 Kies bij <b>Instellingen</b> de spelers, de camera, het videoformaat en de lengte van de lus.
 8 Gebaren
 9 De richtingen worden gelezen zoals ze op het scherm verschijnen: de linkerkolom is team A en de rechterkolom is team B. Houd het gebaar een seconde vast (elk gebaar vraagt hetzelfde) en laat je hand zakken voordat je het herhaalt.
 10 <b>👈 Punt team A:</b> wijs naar links met je wijsvinger of racket.
@@ -17,7 +17,7 @@
 16 <b>Tellen in twee stappen:</b> zodat een toevallige beweging geen punten telt, wijs je eerst (dat maakt het punt alleen klaar) en toon je daarna een seconde je open handpalm, binnen de volgende 5 seconden. Als je niet bevestigt, gebeurt er niets. Je kunt het uitzetten in Instellingen → <b>Bevestig met de handpalm</b>.
 17 Zolang <b>Fragmenten</b> of <b>Wedstrijden</b> open zijn, staan de gebaren op pauze: een hand bij de telefoon telt geen punten en bewaart geen fragmenten.
 18 Scorebord
-19 Het scorebord speelt wedstrijden over de beste van drie sets en telt de games automatisch. Bij 6–6 wordt een tie-break tot 7 punten gespeeld, met twee punten verschil. Bij Bediening kun je het <b>Golden point</b> aanzetten: het punt bij 40–40 beslist het game; uitgezet wordt er met voordeel gespeeld. De teamkleuren kies je bij <b>Bediening → Spelers</b>.
+19 Het scorebord speelt wedstrijden over de beste van drie sets en telt de games automatisch. Bij 6–6 wordt een tie-break tot 7 punten gespeeld, met twee punten verschil. Bij Instellingen kun je het <b>Golden point</b> aanzetten: het punt bij 40–40 beslist het game; uitgezet wordt er met voordeel gespeeld. De teamkleuren kies je bij <b>Instellingen</b> (tik op de teamnamen).
 20 VAR
 21 Toon beide handpalmen of tik op <b>VAR</b>. De herhaling van de laatste 15 s, 30 s of 1 minuut (volgens je instelling) opent in slow motion op ½×, met opties voor 1× en ¼× en beeld voor beeld. Tik twee keer om in te zoomen precies waar je wilt kijken. Je kunt VAR ook openen op een bewaard fragment. VAR bewerkt of verwijdert je video's nooit.
 22 Bewaarde fragmenten
@@ -34,8 +34,8 @@
 33 Kies in het ⋯-menu van het scorebord <b>Wie serveert eerst?</b>. Vanaf dan toont een bal bij elk punt wie er serveert: de service wisselt elk game van team, wisselt tussen de partners en volgt de tie-break. Hij wordt uit de stand berekend, dus als je een punt ongedaan maakt komt hij vanzelf terug. Hij verschijnt ook op de Apple Watch.
 34 Apple Watch
 35 De klok-app (watchOS 10 of nieuwer) installeer je via de Watch-app op de iPhone. Hij toont de stand en laat je vanaf je pols <b>punten toevoegen, ongedaan maken, een fragment bewaren en VAR openen</b>. De puntknoppen vragen om tellen met gebaren aan; een fragment bewaren en VAR vragen om een draaiende camera. Als je op <b>Fragment opslaan</b> of <b>VAR</b> tikt, toont de klok “Bewaren…” en daarna “Fragment bewaard” of “VAR klaar op de iPhone”, met een trilling. Als het niet lukt, staat er “Het is niet gelukt”. Als de klok “iPhone niet bereikbaar” zegt, houd je hem dichter bij de iPhone en open je de app.
-36 Stand op twee apparaten
-37 Zet <b>Stand uitzenden naar apparaten in de buurt</b> aan op beide apparaten en typ dezelfde wedstrijdcode van 4 cijfers. Ze vinden elkaar via wifi of Bluetooth, zonder internet. De eerste keer vraagt iOS om toestemming voor <b>Lokaal netwerk</b>. Het apparaat dat de stand bijhoudt, heeft de leiding.
+36 Stand en camera's op meerdere apparaten
+37 Zet <b>Stand uitzenden naar apparaten in de buurt</b> aan op beide apparaten en typ dezelfde wedstrijdcode van 4 cijfers. Ze vinden elkaar via wifi of Bluetooth, zonder internet. De eerste keer vraagt iOS om toestemming voor <b>Lokaal netwerk</b>. Het apparaat dat de stand bijhoudt, heeft de leiding. Om vanuit meerdere hoeken te filmen zet je met dezelfde code <b>Verbinden met andere camera's</b> aan (het scorebord is niet nodig): als je een fragment bewaart, bewaren de andere camera's het hunne en sturen het naar je toe, en het verschijnt bij de fragmenten als extra hoek.
 38 Taal
 39 De app gebruikt de taal van je telefoon: Spaans, Engels, Italiaans, Portugees, Duits, Frans, Zweeds of Nederlands (anders Spaans). Je kunt een andere kiezen bij <b>Instellingen → Taal</b>, of in de Instellingen van de iPhone → PlayBack Padel → Taal.
 40 Toestemmingen

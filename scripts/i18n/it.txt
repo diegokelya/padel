@@ -38,8 +38,8 @@
 39 Set, game, tie-break sul 6–6 e punto d'oro facoltativo. Aggiungi o annulla con i gesti o con un pulsante.
 40 Cronologia delle partite
 41 Ogni partita viene salvata con il punteggio per set, la data e le sue giocate. Guarda come è andata ed elimina quello che vuoi.
-42 Punteggio su due dispositivi
-43 Mostra il punteggio su un altro iPhone o iPad vicino, senza internet, abbinato con un codice partita.
+42 Più fotocamere e punteggio condiviso
+43 Collega più iPhone o iPad vicini: mostra il punteggio dal vivo e raccogli gli angoli di tutte le fotocamere per ogni giocata, senza internet, con un codice partita.
 44 Per iPhone e iPad
 45 L'app funziona anche su iPad, a schermo intero e in orizzontale.
 46 Apple Watch

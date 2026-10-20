@@ -38,8 +38,8 @@
 39 Sätze, Spiele, Tie-Break bei 6–6 und optionaler Golden Point. Zähle oder mache rückgängig mit Gesten oder per Button.
 40 Match-Verlauf
 41 Jedes Match wird mit Ergebnis pro Satz, Datum und seinen Spielzügen gesichert. Sieh nach, wie es lief, und lösche, was du willst.
-42 Spielstand auf zwei Geräten
-43 Zeige den Spielstand auf einem anderen iPhone oder iPad in der Nähe, ohne Internet, gekoppelt mit einem Match-Code.
+42 Mehrere Kameras und geteilter Spielstand
+43 Verbinde mehrere iPhones oder iPads in der Nähe: zeige den Spielstand live und sammle zu jedem Spielzug die Blickwinkel aller Kameras, ohne Internet, mit einem Match-Code.
 44 Für iPhone und iPad
 45 Die App läuft auch auf dem iPad, im Vollbild und im Querformat.
 46 Apple Watch

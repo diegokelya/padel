@@ -38,8 +38,8 @@
 39 Set, game, tie-break vid 6–6 och valfri golden point. Räkna eller ångra med gester eller en knapp.
 40 Matchhistorik
 41 Varje match sparas med ställning per set, datum och sina klipp. Se hur det gick och ta bort det du vill.
-42 Ställning på två enheter
-43 Visa ställningen på en annan iPhone eller iPad i närheten, utan internet, ihopkopplad med en matchkod.
+42 Flera kameror och delad ställning
+43 Anslut flera iPhone eller iPad i närheten: visa ställningen live och samla alla kamerors vinklar för varje klipp, utan internet, med en matchkod.
 44 För iPhone och iPad
 45 Appen fungerar även på iPad, i helskärm och liggande.
 46 Apple Watch
