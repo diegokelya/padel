@@ -21,5 +21,5 @@
 20 Toestemmingen
 21 Je kunt de toestemmingen voor Camera, Microfoon, Foto's en Lokaal netwerk wijzigen in de iOS-instellingen.
 22 Wijzigingen en contact
-23 Als dit beleid verandert, wordt het hier bijgewerkt met een nieuwe datum. Voor vragen open je een issue op <a href="https://github.com/diegokelya/playback-padel-site/issues">GitHub</a>, zonder persoonsgegevens te vermelden.
+23 Als dit beleid verandert, wordt het hier bijgewerkt met een nieuwe datum. Voor vragen open je een issue op <a href="https://github.com/diegokelya/padel/issues">GitHub</a>, zonder persoonsgegevens te vermelden.
 24 <a href="../support/en.html">Terug naar support</a>

@@ -63,5 +63,5 @@
 62 O placar compartilhado não conecta
 63 Verifique se os dois dispositivos usam o mesmo código, têm a permissão de Rede Local ativada e o Wi-Fi ou o Bluetooth ligado.
 64 Contato
-65 Para dúvidas, erros ou sugestões, abra uma issue no <a href="https://github.com/diegokelya/playback-padel-site/issues">GitHub</a>. Essa página é pública: não inclua dados pessoais nem vídeos.
+65 Para dúvidas, erros ou sugestões, abra uma issue no <a href="https://github.com/diegokelya/padel/issues">GitHub</a>. Essa página é pública: não inclua dados pessoais nem vídeos.
 66 Política de privacidade: <a href="../privacy/en.html">ler</a>.

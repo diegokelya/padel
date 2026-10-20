@@ -21,5 +21,5 @@
 20 Berechtigungen
 21 Die Berechtigungen für Kamera, Mikrofon, Fotos und Lokales Netzwerk kannst du in den iOS-Einstellungen ändern.
 22 Änderungen und Kontakt
-23 Wenn sich diese Erklärung ändert, wird sie hier mit einem neuen Datum aktualisiert. Bei Fragen eröffne ein Issue auf <a href="https://github.com/diegokelya/playback-padel-site/issues">GitHub</a>, ohne persönliche Daten anzugeben.
+23 Wenn sich diese Erklärung ändert, wird sie hier mit einem neuen Datum aktualisiert. Bei Fragen eröffne ein Issue auf <a href="https://github.com/diegokelya/padel/issues">GitHub</a>, ohne persönliche Daten anzugeben.
 24 <a href="../support/en.html">Zurück zum Support</a>

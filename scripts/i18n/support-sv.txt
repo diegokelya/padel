@@ -63,5 +63,5 @@
 62 Den delade ställningen ansluter inte
 63 Kontrollera att båda enheterna använder samma kod, har behörigheten Lokalt nätverk på och Wi-Fi eller Bluetooth påslaget.
 64 Kontakt
-65 För frågor, fel eller förslag, skapa ett ärende på <a href="https://github.com/diegokelya/playback-padel-site/issues">GitHub</a>. Den sidan är offentlig: ange inga personuppgifter eller videor.
+65 För frågor, fel eller förslag, skapa ett ärende på <a href="https://github.com/diegokelya/padel/issues">GitHub</a>. Den sidan är offentlig: ange inga personuppgifter eller videor.
 66 Integritetspolicy: <a href="../privacy/en.html">läs</a>.

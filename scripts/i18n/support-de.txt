@@ -63,5 +63,5 @@
 62 Der geteilte Spielstand verbindet sich nicht
 63 Prüfe, ob beide Geräte denselben Code verwenden, die Berechtigung „Lokales Netzwerk“ erteilt haben und WLAN oder Bluetooth eingeschaltet ist.
 64 Kontakt
-65 Bei Fragen, Fehlern oder Vorschlägen eröffne ein Issue auf <a href="https://github.com/diegokelya/playback-padel-site/issues">GitHub</a>. Diese Seite ist öffentlich: Gib keine persönlichen Daten oder Videos an.
+65 Bei Fragen, Fehlern oder Vorschlägen eröffne ein Issue auf <a href="https://github.com/diegokelya/padel/issues">GitHub</a>. Diese Seite ist öffentlich: Gib keine persönlichen Daten oder Videos an.
 66 Datenschutzerklärung: <a href="../privacy/en.html">lesen</a>.

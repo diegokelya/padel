@@ -21,5 +21,5 @@
 20 Autorisations
 21 Tu peux modifier les autorisations Caméra, Micro, Photos et Réseau local dans les Réglages d'iOS.
 22 Modifications et contact
-23 Si cette politique change, elle sera mise à jour ici avec une nouvelle date. Pour toute question, ouvre un ticket sur <a href="https://github.com/diegokelya/playback-padel-site/issues">GitHub</a>, sans inclure de données personnelles.
+23 Si cette politique change, elle sera mise à jour ici avec une nouvelle date. Pour toute question, ouvre un ticket sur <a href="https://github.com/diegokelya/padel/issues">GitHub</a>, sans inclure de données personnelles.
 24 <a href="../support/en.html">Retour à l'assistance</a>
