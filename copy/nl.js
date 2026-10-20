@@ -66,8 +66,8 @@
   shotScoreAlt: "Scorebord van PlayBack Padel op volledig scherm: Team A 40, Team B 30, met de sets",
   shotGestures: "Drie gebaren om de wedstrijd te besturen zonder de telefoon aan te raken.",
   shotGesturesAlt: "Gebaren van PlayBack Padel: wijzen om te tellen, open handpalm om het fragment te bewaren, twee handpalmen voor VAR",
-  shotFeatures: "VAR, highlight van de dag, delen met de stand en geen accounts.",
-  shotFeaturesAlt: "Functies van PlayBack Padel: VAR in slow motion, highlight van de dag, delen met de stand, geen accounts of internet",
+  shotFeatures: "VAR, automatische highlight, delen met de stand en geen accounts.",
+  shotFeaturesAlt: "Functies van PlayBack Padel: VAR in slow motion, automatische highlight, delen met de stand, geen accounts of internet",
   shotHistory: "Wedstrijdgeschiedenis met zijn fragmenten.",
   shotHistoryAlt: "Wedstrijdgeschiedenis van PlayBack Padel",
   watchTitle: "Ook om je pols",
@@ -96,6 +96,8 @@
   waitBadge: "Download in de App Store",
   support: "Support",
   privacy: "Privacy",
+  shotCameras: "Elke hoek van elk punt, met meerdere verbonden camera's.",
+  shotCamerasAlt: "Fragmenten in PlayBack Padel met de badge voor meerdere hoeken en de knoppen om van camera te wisselen: Hoofd, iPad de Ana, iPhone de Bruno",
   supportUrl: "support/nl.html",
   privacyUrl: "privacy/nl.html"
 };

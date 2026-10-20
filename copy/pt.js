@@ -66,8 +66,8 @@
   shotScoreAlt: "Placar em tela cheia do PlayBack Padel: Equipe A 40, Equipe B 30, com os sets",
   shotGestures: "Três gestos para comandar a partida sem tocar no celular.",
   shotGesturesAlt: "Gestos do PlayBack Padel: apontar para marcar, palma aberta para salvar a jogada, duas palmas para o VAR",
-  shotFeatures: "VAR, highlight do dia, compartilhar com o placar e sem contas.",
-  shotFeaturesAlt: "Funções do PlayBack Padel: VAR em câmera lenta, highlight do dia, compartilhar com o placar, sem contas nem internet",
+  shotFeatures: "VAR, highlight automático, compartilhar com o placar e sem contas.",
+  shotFeaturesAlt: "Funções do PlayBack Padel: VAR em câmera lenta, highlight automático, compartilhar com o placar, sem contas nem internet",
   shotHistory: "Histórico de partidas com as suas jogadas.",
   shotHistoryAlt: "Histórico de partidas do PlayBack Padel",
   watchTitle: "Também no seu pulso",
@@ -96,6 +96,8 @@
   waitBadge: "Baixar na App Store",
   support: "Suporte",
   privacy: "Privacidade",
+  shotCameras: "Todos os ângulos de cada ponto, com várias câmeras conectadas.",
+  shotCamerasAlt: "Jogadas do PlayBack Padel com o indicador de vários ângulos e os botões para trocar de câmera: Principal, iPad de Ana, iPhone de Bruno",
   supportUrl: "support/pt.html",
   privacyUrl: "privacy/pt.html"
 };

@@ -64,8 +64,8 @@
 65 Placar em tela cheia do PlayBack Padel: Equipe A 40, Equipe B 30, com os sets
 66 Três gestos para comandar a partida sem tocar no celular.
 67 Gestos do PlayBack Padel: apontar para marcar, palma aberta para salvar a jogada, duas palmas para o VAR
-68 VAR, highlight do dia, compartilhar com o placar e sem contas.
-69 Funções do PlayBack Padel: VAR em câmera lenta, highlight do dia, compartilhar com o placar, sem contas nem internet
+68 VAR, highlight automático, compartilhar com o placar e sem contas.
+69 Funções do PlayBack Padel: VAR em câmera lenta, highlight automático, compartilhar com o placar, sem contas nem internet
 70 Histórico de partidas com as suas jogadas.
 71 Histórico de partidas do PlayBack Padel
 72 Também no seu pulso
@@ -94,3 +94,5 @@
 95 Baixar na App Store
 96 Suporte
 97 Privacidade
+100 Todos os ângulos de cada ponto, com várias câmeras conectadas.
+101 Jogadas do PlayBack Padel com o indicador de vários ângulos e os botões para trocar de câmera: Principal, iPad de Ana, iPhone de Bruno

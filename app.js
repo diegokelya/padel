@@ -37,7 +37,8 @@ const copy = {
     shotsEyebrow: 'LA APP POR DENTRO', shotsTitle: 'Así se ve<br>en la cancha.',
     shotScore: 'Marcador a pantalla completa, con sets, juegos y puntos.', shotScoreAlt: 'Marcador de PlayBack Padel a pantalla completa: Equipo A 40, Equipo B 30, con los sets',
     shotGestures: 'Tres gestos para manejar el partido sin tocar el celular.', shotGesturesAlt: 'Gestos de PlayBack Padel: señalar para sumar un punto, palma abierta para guardar la jugada y dos palmas para el VAR',
-    shotFeatures: 'VAR, highlight del día, compartir con marcador y sin cuentas.', shotFeaturesAlt: 'Funciones de PlayBack Padel: VAR en cámara lenta, highlight del día, compartir con marcador, sin cuentas ni internet',
+    shotFeatures: 'VAR, highlight automático, compartir con marcador y sin cuentas.', shotFeaturesAlt: 'Funciones de PlayBack Padel: VAR en cámara lenta, highlight automático, compartir con marcador, sin cuentas ni internet',
+    shotCameras: 'Todos los ángulos de cada punto, con varias cámaras conectadas.', shotCamerasAlt: 'Jugadas de PlayBack Padel con la insignia de varios ángulos y los botones para cambiar de cámara: Principal, iPad de Ana, iPhone de Bruno',
     shotHistory: 'Historial de partidos con sus jugadas.', shotHistoryAlt: 'Historial de partidos de PlayBack Padel',
     watchTitle: 'También en tu muñeca', watchText: 'Con el Apple Watch sumás puntos, deshacés, guardás la jugada y abrís el VAR sin tocar el iPhone de la reja. Es opcional.',
     watch1Alt: 'Apple Watch con el puntaje 40–30 y los botones +1, deshacer, guardar jugada y VAR', watch2Alt: 'Apple Watch con el aviso para activar el puntaje en el iPhone', watch3Alt: 'Apple Watch con el aviso de partido terminado',
@@ -92,7 +93,8 @@ const copy = {
     shotsEyebrow: 'INSIDE THE APP', shotsTitle: 'This is how it looks<br>on court.',
     shotScore: 'Full-screen scoreboard with sets, games and points.', shotScoreAlt: 'PlayBack Padel full-screen scoreboard: Team A 40, Team B 30, with the sets',
     shotGestures: 'Three gestures to run the match without touching the phone.', shotGesturesAlt: 'PlayBack Padel gestures: point to score, open palm to save the play, two palms for VAR',
-    shotFeatures: 'VAR, highlight of the day, share with the score and no accounts.', shotFeaturesAlt: 'PlayBack Padel features: slow-motion VAR, highlight of the day, share with the score, no accounts or internet',
+    shotFeatures: 'VAR, automatic highlight, share with the score and no accounts.', shotFeaturesAlt: 'PlayBack Padel features: slow-motion VAR, automatic highlight, share with the score, no accounts or internet',
+    shotCameras: 'Every angle of the point, with several cameras connected.', shotCamerasAlt: 'PlayBack Padel plays with the badge for several angles and the buttons to switch cameras: Main, iPad de Ana, iPhone de Bruno',
     shotHistory: 'Match history with its plays.', shotHistoryAlt: 'PlayBack Padel match history',
     watchTitle: 'On your wrist too', watchText: 'With the Apple Watch you add points, undo, save the play and open VAR without touching the iPhone on the fence. It is optional.',
     watch1Alt: 'Apple Watch showing the 40–30 score with +1, undo, save play and VAR buttons', watch2Alt: 'Apple Watch with the notice to turn scoring on on the iPhone', watch3Alt: 'Apple Watch with the match finished notice',
@@ -116,8 +118,8 @@ const copy = {
 // Screenshots differ by language only in their text, so each language names its own files.
 // The new languages reuse the English images and video (their text is part of the picture).
 const shots = {
-  es: { scoreboard: 'slide-es-scoreboard', gestures: 'slide-es-gestures', features: 'slide-es-features', matches: 'slide-es-matches', watch1: 'watch-es-01-partido', watch2: 'watch-es-02-puntaje-apagado', watch3: 'watch-es-03-partido-terminado' },
-  en: { scoreboard: 'slide-en-scoreboard', gestures: 'slide-en-gestures', features: 'slide-en-features', matches: 'slide-en-matches', watch1: 'watch-en-01-match', watch2: 'watch-en-02-scoring-off', watch3: 'watch-en-03-match-finished' }
+  es: { scoreboard: 'slide-es-scoreboard', gestures: 'slide-es-gestures', cameras: 'slide-es-cameras', features: 'slide-es-features', matches: 'slide-es-matches', watch1: 'watch-es-01-partido', watch2: 'watch-es-02-puntaje-apagado', watch3: 'watch-es-03-partido-terminado' },
+  en: { scoreboard: 'slide-en-scoreboard', gestures: 'slide-en-gestures', cameras: 'slide-en-cameras', features: 'slide-en-features', matches: 'slide-en-matches', watch1: 'watch-en-01-match', watch2: 'watch-en-02-scoring-off', watch3: 'watch-en-03-match-finished' }
 };
 
 // Spanish and English are here; every other language is a small file (copy/<code>.js) loaded only when it is needed.
@@ -161,7 +163,7 @@ function render() {
   document.title = text.title;
   document.querySelector('meta[name="description"]').setAttribute('content', text.description);
   document.querySelectorAll('[data-i18n]').forEach(el => { el.innerHTML = text[el.dataset.i18n]; });
-  document.querySelectorAll('[data-shot]').forEach(img => { img.src = `assets/shots/${shots[imageLanguage(lang)][img.dataset.shot]}.webp`; });
+  document.querySelectorAll('[data-shot]').forEach(img => { img.src = `assets/shots/${shots[imageLanguage(lang)][img.dataset.shot]}.webp?v=2`; });
   const demo = document.getElementById('demo-video');
   if (demo) {
     const media = imageLanguage(lang);

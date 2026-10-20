@@ -64,8 +64,8 @@
 65 Scorebord van PlayBack Padel op volledig scherm: Team A 40, Team B 30, met de sets
 66 Drie gebaren om de wedstrijd te besturen zonder de telefoon aan te raken.
 67 Gebaren van PlayBack Padel: wijzen om te tellen, open handpalm om het fragment te bewaren, twee handpalmen voor VAR
-68 VAR, highlight van de dag, delen met de stand en geen accounts.
-69 Functies van PlayBack Padel: VAR in slow motion, highlight van de dag, delen met de stand, geen accounts of internet
+68 VAR, automatische highlight, delen met de stand en geen accounts.
+69 Functies van PlayBack Padel: VAR in slow motion, automatische highlight, delen met de stand, geen accounts of internet
 70 Wedstrijdgeschiedenis met zijn fragmenten.
 71 Wedstrijdgeschiedenis van PlayBack Padel
 72 Ook om je pols
@@ -94,3 +94,5 @@
 95 Download in de App Store
 96 Support
 97 Privacy
+100 Elke hoek van elk punt, met meerdere verbonden camera's.
+101 Fragmenten in PlayBack Padel met de badge voor meerdere hoeken en de knoppen om van camera te wisselen: Hoofd, iPad de Ana, iPhone de Bruno

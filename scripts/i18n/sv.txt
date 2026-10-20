@@ -64,8 +64,8 @@
 65 PlayBack Padels resultattavla i helskärm: Lag A 40, Lag B 30, med seten
 66 Tre gester för att styra matchen utan att röra telefonen.
 67 PlayBack Padels gester: peka för att räkna poäng, öppen handflata för att spara klippet, två handflator för VAR
-68 VAR, dagens höjdpunkter, dela med ställningen och inga konton.
-69 PlayBack Padels funktioner: VAR i slow motion, dagens höjdpunkter, dela med ställningen, inga konton eller internet
+68 VAR, automatiska höjdpunkter, dela med ställningen och inga konton.
+69 PlayBack Padels funktioner: VAR i slow motion, automatiska höjdpunkter, dela med ställningen, inga konton eller internet
 70 Matchhistorik med sina klipp.
 71 PlayBack Padels matchhistorik
 72 Även på handleden
@@ -94,3 +94,5 @@
 95 Ladda ner i App Store
 96 Support
 97 Integritet
+100 Alla vinklar av varje poäng, med flera anslutna kameror.
+101 Klipp i PlayBack Padel med märket för flera vinklar och knapparna för att byta kamera: Huvud, iPad de Ana, iPhone de Bruno

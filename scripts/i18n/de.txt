@@ -64,8 +64,8 @@
 65 Vollbild-Anzeigetafel von PlayBack Padel: Team A 40, Team B 30, mit den Sätzen
 66 Drei Gesten, um das Match zu steuern, ohne das Handy zu berühren.
 67 Gesten von PlayBack Padel: zeigen zum Zählen, offene Handfläche zum Speichern des Spielzugs, zwei Handflächen für das VAR
-68 VAR, Highlight des Tages, mit Spielstand teilen und keine Konten.
-69 Funktionen von PlayBack Padel: VAR in Zeitlupe, Highlight des Tages, mit Spielstand teilen, keine Konten und kein Internet
+68 VAR, automatisches Highlight, mit Spielstand teilen und keine Konten.
+69 Funktionen von PlayBack Padel: VAR in Zeitlupe, automatisches Highlight, mit Spielstand teilen, keine Konten und kein Internet
 70 Match-Verlauf mit seinen Spielzügen.
 71 Match-Verlauf von PlayBack Padel
 72 Auch am Handgelenk
@@ -94,3 +94,5 @@
 95 Laden im App Store
 96 Support
 97 Datenschutz
+100 Jeder Blickwinkel jedes Punktes, mit mehreren verbundenen Kameras.
+101 Spielzüge in PlayBack Padel mit dem Hinweis auf mehrere Blickwinkel und den Tasten zum Kamerawechsel: Hauptansicht, iPad de Ana, iPhone de Bruno

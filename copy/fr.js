@@ -66,8 +66,8 @@
   shotScoreAlt: "Tableau des scores en plein écran de PlayBack Padel : Équipe A 40, Équipe B 30, avec les sets",
   shotGestures: "Trois gestes pour mener le match sans toucher le téléphone.",
   shotGesturesAlt: "Gestes de PlayBack Padel : pointer pour marquer, paume ouverte pour enregistrer l'action, deux paumes pour la VAR",
-  shotFeatures: "VAR, temps forts de la journée, partage avec le score et pas de compte.",
-  shotFeaturesAlt: "Fonctions de PlayBack Padel : VAR au ralenti, temps forts de la journée, partage avec le score, pas de compte ni d'internet",
+  shotFeatures: "VAR, temps forts automatiques, partage avec le score et pas de compte.",
+  shotFeaturesAlt: "Fonctions de PlayBack Padel : VAR au ralenti, temps forts automatiques, partage avec le score, pas de compte ni d'internet",
   shotHistory: "Historique des matchs avec ses actions.",
   shotHistoryAlt: "Historique des matchs de PlayBack Padel",
   watchTitle: "Aussi à ton poignet",
@@ -96,6 +96,8 @@
   waitBadge: "Télécharger sur l'App Store",
   support: "Assistance",
   privacy: "Confidentialité",
+  shotCameras: "Tous les angles de chaque point, avec plusieurs caméras connectées.",
+  shotCamerasAlt: "Actions de PlayBack Padel avec l'indicateur de plusieurs angles et les boutons pour changer de caméra : Principal, iPad de Ana, iPhone de Bruno",
   supportUrl: "support/fr.html",
   privacyUrl: "privacy/fr.html"
 };

@@ -66,8 +66,8 @@
   shotScoreAlt: "Tabellone a schermo intero di PlayBack Padel: Squadra A 40, Squadra B 30, con i set",
   shotGestures: "Tre gesti per gestire la partita senza toccare il telefono.",
   shotGesturesAlt: "Gesti di PlayBack Padel: indicare per segnare, palmo aperto per salvare la giocata, due palmi per il VAR",
-  shotFeatures: "VAR, highlight del giorno, condivisione con il punteggio e nessun account.",
-  shotFeaturesAlt: "Funzioni di PlayBack Padel: VAR al rallentatore, highlight del giorno, condivisione con il punteggio, nessun account né internet",
+  shotFeatures: "VAR, highlight automatico, condivisione con il punteggio e nessun account.",
+  shotFeaturesAlt: "Funzioni di PlayBack Padel: VAR al rallentatore, highlight automatico, condivisione con il punteggio, nessun account né internet",
   shotHistory: "Cronologia delle partite con le sue giocate.",
   shotHistoryAlt: "Cronologia delle partite di PlayBack Padel",
   watchTitle: "Anche al polso",
@@ -96,6 +96,8 @@
   waitBadge: "Scarica dall'App Store",
   support: "Assistenza",
   privacy: "Privacy",
+  shotCameras: "Tutte le angolazioni di ogni punto, con più fotocamere collegate.",
+  shotCamerasAlt: "Giocate di PlayBack Padel con l'indicatore di più angolazioni e i pulsanti per cambiare fotocamera: Principale, iPad de Ana, iPhone de Bruno",
   supportUrl: "support/it.html",
   privacyUrl: "privacy/it.html"
 };

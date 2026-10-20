@@ -64,8 +64,8 @@
 65 Tabellone a schermo intero di PlayBack Padel: Squadra A 40, Squadra B 30, con i set
 66 Tre gesti per gestire la partita senza toccare il telefono.
 67 Gesti di PlayBack Padel: indicare per segnare, palmo aperto per salvare la giocata, due palmi per il VAR
-68 VAR, highlight del giorno, condivisione con il punteggio e nessun account.
-69 Funzioni di PlayBack Padel: VAR al rallentatore, highlight del giorno, condivisione con il punteggio, nessun account né internet
+68 VAR, highlight automatico, condivisione con il punteggio e nessun account.
+69 Funzioni di PlayBack Padel: VAR al rallentatore, highlight automatico, condivisione con il punteggio, nessun account né internet
 70 Cronologia delle partite con le sue giocate.
 71 Cronologia delle partite di PlayBack Padel
 72 Anche al polso
@@ -94,3 +94,5 @@
 95 Scarica dall'App Store
 96 Assistenza
 97 Privacy
+100 Tutte le angolazioni di ogni punto, con più fotocamere collegate.
+101 Giocate di PlayBack Padel con l'indicatore di più angolazioni e i pulsanti per cambiare fotocamera: Principale, iPad de Ana, iPhone de Bruno
