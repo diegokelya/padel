@@ -66,8 +66,8 @@
   shotScoreAlt: "PlayBack Padels resultattavla i helskärm: Lag A 40, Lag B 30, med seten",
   shotGestures: "Tre gester för att styra matchen utan att röra telefonen.",
   shotGesturesAlt: "PlayBack Padels gester: peka för att räkna poäng, öppen handflata för att spara klippet, två handflator för VAR",
-  shotFeatures: "VAR, dagens höjdpunkter, dela med ställningen och inga konton.",
-  shotFeaturesAlt: "PlayBack Padels funktioner: VAR i slow motion, dagens höjdpunkter, dela med ställningen, inga konton eller internet",
+  shotFeatures: "VAR, automatiska höjdpunkter, dela med ställningen och inga konton.",
+  shotFeaturesAlt: "PlayBack Padels funktioner: VAR i slow motion, automatiska höjdpunkter, dela med ställningen, inga konton eller internet",
   shotHistory: "Matchhistorik med sina klipp.",
   shotHistoryAlt: "PlayBack Padels matchhistorik",
   watchTitle: "Även på handleden",
@@ -96,6 +96,8 @@
   waitBadge: "Ladda ner i App Store",
   support: "Support",
   privacy: "Integritet",
+  shotCameras: "Alla vinklar av varje poäng, med flera anslutna kameror.",
+  shotCamerasAlt: "Klipp i PlayBack Padel med märket för flera vinklar och knapparna för att byta kamera: Huvud, iPad de Ana, iPhone de Bruno",
   supportUrl: "support/sv.html",
   privacyUrl: "privacy/sv.html"
 };

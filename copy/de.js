@@ -66,8 +66,8 @@
   shotScoreAlt: "Vollbild-Anzeigetafel von PlayBack Padel: Team A 40, Team B 30, mit den Sätzen",
   shotGestures: "Drei Gesten, um das Match zu steuern, ohne das Handy zu berühren.",
   shotGesturesAlt: "Gesten von PlayBack Padel: zeigen zum Zählen, offene Handfläche zum Speichern des Spielzugs, zwei Handflächen für das VAR",
-  shotFeatures: "VAR, Highlight des Tages, mit Spielstand teilen und keine Konten.",
-  shotFeaturesAlt: "Funktionen von PlayBack Padel: VAR in Zeitlupe, Highlight des Tages, mit Spielstand teilen, keine Konten und kein Internet",
+  shotFeatures: "VAR, automatisches Highlight, mit Spielstand teilen und keine Konten.",
+  shotFeaturesAlt: "Funktionen von PlayBack Padel: VAR in Zeitlupe, automatisches Highlight, mit Spielstand teilen, keine Konten und kein Internet",
   shotHistory: "Match-Verlauf mit seinen Spielzügen.",
   shotHistoryAlt: "Match-Verlauf von PlayBack Padel",
   watchTitle: "Auch am Handgelenk",
@@ -96,6 +96,8 @@
   waitBadge: "Laden im App Store",
   support: "Support",
   privacy: "Datenschutz",
+  shotCameras: "Jeder Blickwinkel jedes Punktes, mit mehreren verbundenen Kameras.",
+  shotCamerasAlt: "Spielzüge in PlayBack Padel mit dem Hinweis auf mehrere Blickwinkel und den Tasten zum Kamerawechsel: Hauptansicht, iPad de Ana, iPhone de Bruno",
   supportUrl: "support/de.html",
   privacyUrl: "privacy/de.html"
 };

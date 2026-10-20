@@ -64,8 +64,8 @@
 65 Tableau des scores en plein écran de PlayBack Padel : Équipe A 40, Équipe B 30, avec les sets
 66 Trois gestes pour mener le match sans toucher le téléphone.
 67 Gestes de PlayBack Padel : pointer pour marquer, paume ouverte pour enregistrer l'action, deux paumes pour la VAR
-68 VAR, temps forts de la journée, partage avec le score et pas de compte.
-69 Fonctions de PlayBack Padel : VAR au ralenti, temps forts de la journée, partage avec le score, pas de compte ni d'internet
+68 VAR, temps forts automatiques, partage avec le score et pas de compte.
+69 Fonctions de PlayBack Padel : VAR au ralenti, temps forts automatiques, partage avec le score, pas de compte ni d'internet
 70 Historique des matchs avec ses actions.
 71 Historique des matchs de PlayBack Padel
 72 Aussi à ton poignet
@@ -94,3 +94,5 @@
 95 Télécharger sur l'App Store
 96 Assistance
 97 Confidentialité
+100 Tous les angles de chaque point, avec plusieurs caméras connectées.
+101 Actions de PlayBack Padel avec l'indicateur de plusieurs angles et les boutons pour changer de caméra : Principal, iPad de Ana, iPhone de Bruno
