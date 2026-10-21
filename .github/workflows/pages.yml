@@ -41,6 +41,8 @@ jobs:
           cp assets/demo-es.mp4 assets/demo-en.mp4 assets/demo-poster-es.webp assets/demo-poster-en.webp _site/assets/
           mkdir -p _site/assets/shots
           cp assets/shots/*.webp _site/assets/shots/
+          mkdir -p _site/assets/badges
+          cp assets/badges/*.svg _site/assets/badges/
           # Fail if a page references a local file that was not published.
           for ref in $(grep -ohE '(src|href|srcset)="(assets/[^"]+|[a-z0-9-]+\.(css|js|html|xml))"' _site/index.html | cut -d'"' -f2); do
             test -f "_site/$ref" || { echo "::error::Missing $ref"; exit 1; }
