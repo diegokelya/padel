@@ -176,6 +176,7 @@ function render() {
       if (wasPlaying) demo.play().catch(() => {});
     }
   }
+  document.querySelectorAll('[data-badge]').forEach(img => { img.src = `assets/badges/${lang}.svg`; });
   document.querySelectorAll('[data-i18n-alt]').forEach(img => img.setAttribute('alt', text[img.dataset.i18nAlt]));
   document.querySelectorAll('[data-i18n-aria]').forEach(el => el.setAttribute('aria-label', text[el.dataset.i18nAria]));
   document.getElementById('support-link').href = text.supportUrl;
