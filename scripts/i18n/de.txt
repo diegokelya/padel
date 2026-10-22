@@ -96,3 +96,4 @@
 97 Datenschutz
 100 Jeder Blickwinkel jedes Punktes, mit mehreren verbundenen Kameras.
 101 Spielzüge in PlayBack Padel mit dem Hinweis auf mehrere Blickwinkel und den Tasten zum Kamerawechsel: Hauptansicht, iPad de Ana, iPhone de Bruno
+102 Android: demnächst

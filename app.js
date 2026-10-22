@@ -53,6 +53,7 @@ const copy = {
     waitEyebrow: 'YA DISPONIBLE', waitTitle: 'PlayBack Padel<br>ya está en la cancha.',
     waitText: 'Descargala gratis en la App Store para iPhone y iPad.',
     waitBadge: 'Descargar en la App Store',
+    androidSoon: 'Android: pronto',
     support: 'Soporte', privacy: 'Privacidad',
     supportUrl: 'support/',
     privacyUrl: 'privacy/'
@@ -109,6 +110,7 @@ const copy = {
     waitEyebrow: 'NOW AVAILABLE', waitTitle: 'PlayBack Padel<br>is on the court.',
     waitText: 'Download it for free on the App Store for iPhone and iPad.',
     waitBadge: 'Download on the App Store',
+    androidSoon: 'Android: coming soon',
     support: 'Support', privacy: 'Privacy',
     supportUrl: 'support/en.html',
     privacyUrl: 'privacy/en.html'

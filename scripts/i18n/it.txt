@@ -96,3 +96,4 @@
 97 Privacy
 100 Tutte le angolazioni di ogni punto, con più fotocamere collegate.
 101 Giocate di PlayBack Padel con l'indicatore di più angolazioni e i pulsanti per cambiare fotocamera: Principale, iPad de Ana, iPhone de Bruno
+102 Android: in arrivo

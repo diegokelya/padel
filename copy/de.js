@@ -98,6 +98,7 @@
   privacy: "Datenschutz",
   shotCameras: "Jeder Blickwinkel jedes Punktes, mit mehreren verbundenen Kameras.",
   shotCamerasAlt: "Spielzüge in PlayBack Padel mit dem Hinweis auf mehrere Blickwinkel und den Tasten zum Kamerawechsel: Hauptansicht, iPad de Ana, iPhone de Bruno",
+  androidSoon: "Android: demnächst",
   supportUrl: "support/de.html",
   privacyUrl: "privacy/de.html"
 };

@@ -98,6 +98,7 @@
   privacy: "Privacy",
   shotCameras: "Tutte le angolazioni di ogni punto, con più fotocamere collegate.",
   shotCamerasAlt: "Giocate di PlayBack Padel con l'indicatore di più angolazioni e i pulsanti per cambiare fotocamera: Principale, iPad de Ana, iPhone de Bruno",
+  androidSoon: "Android: in arrivo",
   supportUrl: "support/it.html",
   privacyUrl: "privacy/it.html"
 };
