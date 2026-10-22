@@ -164,7 +164,8 @@ function render() {
   document.documentElement.lang = lang;
   document.title = text.title;
   document.querySelector('meta[name="description"]').setAttribute('content', text.description);
-  document.querySelectorAll('[data-i18n]').forEach(el => { el.innerHTML = text[el.dataset.i18n]; });
+  // A text the loaded script does not have yet (the page is newer than a cached app.js) keeps the HTML it came with.
+  document.querySelectorAll('[data-i18n]').forEach(el => { if (text[el.dataset.i18n] !== undefined) el.innerHTML = text[el.dataset.i18n]; });
   document.querySelectorAll('[data-shot]').forEach(img => { img.src = `assets/shots/${shots[imageLanguage(lang)][img.dataset.shot]}.webp?v=2`; });
   const demo = document.getElementById('demo-video');
   if (demo) {
@@ -179,8 +180,8 @@ function render() {
     }
   }
   document.querySelectorAll('[data-badge]').forEach(img => { img.src = `assets/badges/${lang}.svg`; });
-  document.querySelectorAll('[data-i18n-alt]').forEach(img => img.setAttribute('alt', text[img.dataset.i18nAlt]));
-  document.querySelectorAll('[data-i18n-aria]').forEach(el => el.setAttribute('aria-label', text[el.dataset.i18nAria]));
+  document.querySelectorAll('[data-i18n-alt]').forEach(img => { if (text[img.dataset.i18nAlt] !== undefined) img.setAttribute('alt', text[img.dataset.i18nAlt]); });
+  document.querySelectorAll('[data-i18n-aria]').forEach(el => { if (text[el.dataset.i18nAria] !== undefined) el.setAttribute('aria-label', text[el.dataset.i18nAria]); });
   document.getElementById('support-link').href = text.supportUrl;
   document.getElementById('privacy-link').href = text.privacyUrl;
   document.getElementById('language').value = lang;
