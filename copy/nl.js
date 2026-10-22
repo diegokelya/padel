@@ -98,6 +98,7 @@
   privacy: "Privacy",
   shotCameras: "Elke hoek van elk punt, met meerdere verbonden camera's.",
   shotCamerasAlt: "Fragmenten in PlayBack Padel met de badge voor meerdere hoeken en de knoppen om van camera te wisselen: Hoofd, iPad de Ana, iPhone de Bruno",
+  androidSoon: "Android: binnenkort",
   supportUrl: "support/nl.html",
   privacyUrl: "privacy/nl.html"
 };

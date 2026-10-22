@@ -98,6 +98,7 @@
   privacy: "Integritet",
   shotCameras: "Alla vinklar av varje poäng, med flera anslutna kameror.",
   shotCamerasAlt: "Klipp i PlayBack Padel med märket för flera vinklar och knapparna för att byta kamera: Huvud, iPad de Ana, iPhone de Bruno",
+  androidSoon: "Android: kommer snart",
   supportUrl: "support/sv.html",
   privacyUrl: "privacy/sv.html"
 };

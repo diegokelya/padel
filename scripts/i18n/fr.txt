@@ -96,3 +96,4 @@
 97 Confidentialité
 100 Tous les angles de chaque point, avec plusieurs caméras connectées.
 101 Actions de PlayBack Padel avec l'indicateur de plusieurs angles et les boutons pour changer de caméra : Principal, iPad de Ana, iPhone de Bruno
+102 Android : bientôt

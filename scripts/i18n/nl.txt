@@ -96,3 +96,4 @@
 97 Privacy
 100 Elke hoek van elk punt, met meerdere verbonden camera's.
 101 Fragmenten in PlayBack Padel met de badge voor meerdere hoeken en de knoppen om van camera te wisselen: Hoofd, iPad de Ana, iPhone de Bruno
+102 Android: binnenkort

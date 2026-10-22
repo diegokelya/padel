@@ -96,3 +96,4 @@
 97 Integritet
 100 Alla vinklar av varje poäng, med flera anslutna kameror.
 101 Klipp i PlayBack Padel med märket för flera vinklar och knapparna för att byta kamera: Huvud, iPad de Ana, iPhone de Bruno
+102 Android: kommer snart
