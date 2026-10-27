@@ -1,19 +1,19 @@
 0 PlayBack Padel — Seu melhor ponto, sempre pronto
-1 O PlayBack Padel transforma seu iPhone ou iPad em uma câmera de replays de padel: salve a jogada com um gesto, reveja em VAR em câmera lenta e acompanhe o placar da partida.
+1 O PlayBack Padel grava sua partida de padel no iPhone ou iPad: salve a jogada com um gesto e o app monta o vídeo com seus melhores pontos. Inclui VAR em câmera lenta, várias câmeras e placar.
 2 Ir para o conteúdo
 5 Gestos
 6 Funções
 7 Baixar
-8 REPLAYS E PLACAR AO VIVO
+8 GRAVE E RESUMA SUA PARTIDA
 9 Seu melhor ponto.<br><em>Um gesto</em> para salvá-lo.
-10 O PlayBack Padel transforma um iPhone em uma câmera de replays e placar ao vivo para a sua partida.
+10 O PlayBack Padel grava sua partida e monta sozinho o vídeo com suas melhores jogadas, em câmera lenta e pronto para compartilhar.
 11 Baixar grátis
 12 Veja como funciona
 13 Placar de exemplo: Equipe A 40, Equipe B 30, jogada salva
 14 EQUIPE A
 15 EQUIPE B
 16 JOGADA SALVA
-17 Sem acessórios nem assinaturas. Só a partida, suas melhores jogadas e um placar que todos podem ver.
+17 Sem acessórios nem assinaturas. Um gesto salva cada jogada e o app monta sozinho o vídeo com as melhores.
 18 CONTROLE A PARTIDA
 19 Os gestos se entendem<br>num relance.
 20 Ponto da Equipe A
@@ -51,7 +51,7 @@
 52 Rally longo (beta)
 53 Observa a quadra com a câmera e salva só os rallies de mais de 8 segundos, do início ao fim.
 54 Highlight da partida ou do dia
-55 Um vídeo de até 1 minuto com as suas melhores jogadas, só com jogo de verdade (o app escuta as batidas) e cada uma com o seu placar. O do dia revisa todas as suas partidas. Fica salvo no app para assistir ou compartilhar.
+55 Um vídeo com suas melhores jogadas, de 30 segundos a 5 minutos, cada uma com seu placar. Cada jogada termina em câmera lenta no golpe que define o ponto, se funde com a seguinte e leva um letreiro (set point, rally de 14 s). Só entra o jogo de verdade: o app escuta os golpes. Fica salvo no app, com o logo, para assistir ou compartilhar.
 56 Suas jogadas ficam no seu dispositivo
 57 Sem contas, servidores nem anúncios. Os vídeos nunca saem do dispositivo, a menos que você os compartilhe.
 58 VEJA COMO FUNCIONA

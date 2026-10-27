@@ -1,19 +1,19 @@
 0 PlayBack Padel — Ton meilleur point, toujours prêt
-1 PlayBack Padel transforme ton iPhone ou ton iPad en caméra de replays pour le padel : enregistre l'action d'un geste, revois-la au ralenti avec la VAR et suis le score de ton match.
+1 PlayBack Padel enregistre ton match de padel sur ton iPhone ou iPad : enregistre l'action d'un geste et l'app crée la vidéo de tes meilleurs points. Avec VAR au ralenti, plusieurs caméras et score.
 2 Aller au contenu
 5 Gestes
 6 Fonctions
 7 Télécharger
-8 REPLAY ET SCORE EN DIRECT
+8 ENREGISTRE ET RÉSUME TON MATCH
 9 Ton meilleur point.<br><em>Un geste</em> pour l'enregistrer.
-10 PlayBack Padel transforme un iPhone en caméra de replays et en tableau des scores en direct pour ton match.
+10 PlayBack Padel enregistre ton match et crée tout seul la vidéo de tes meilleures actions, au ralenti et prête à partager.
 11 Télécharger gratuitement
 12 Voir comment ça marche
 13 Tableau des scores d'exemple : Équipe A 40, Équipe B 30, action enregistrée
 14 ÉQUIPE A
 15 ÉQUIPE B
 16 ACTION ENREGISTRÉE
-17 Pas d'accessoires ni d'abonnements. Juste le match, tes meilleures actions et un score que tout le monde peut voir.
+17 Pas d'accessoires ni d'abonnements. Un geste enregistre chaque action et l'app crée toute seule la vidéo des meilleures.
 18 CONTRÔLE LE MATCH
 19 Les gestes se comprennent<br>d'un coup d'œil.
 20 Point équipe A
@@ -51,7 +51,7 @@
 52 Long échange (bêta)
 53 Elle surveille le terrain avec la caméra et n'enregistre que les échanges de plus de 8 secondes, du début à la fin.
 54 Temps forts du match ou de la journée
-55 Une vidéo allant jusqu'à 1 minute avec tes meilleures actions, uniquement avec du vrai jeu (l'app écoute les frappes) et chacune avec son score. Celle de la journée passe en revue tous tes matchs. Elle reste enregistrée dans l'app pour la regarder ou la partager.
+55 Une vidéo de tes meilleures actions, de 30 secondes à 5 minutes, chacune avec son score. Chaque action se termine au ralenti sur le coup qui décide le point, se fond dans la suivante et porte un bandeau (balle de set, échange de 14 s). Seul le vrai jeu est retenu : l'app écoute les coups. Elle reste enregistrée dans l'app, avec le logo, à regarder ou partager.
 56 Tes actions restent sur ton appareil
 57 Pas de compte, de serveur ni de publicité. Les vidéos ne quittent jamais l'appareil, sauf si tu les partages.
 58 VOIS COMMENT ÇA MARCHE

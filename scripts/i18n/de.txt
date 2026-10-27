@@ -1,19 +1,19 @@
 0 PlayBack Padel — Dein bester Punkt, immer bereit
-1 PlayBack Padel verwandelt dein iPhone oder iPad in eine Replay-Kamera für Padel: Speichere den Spielzug mit einer Geste, sieh ihn dir im VAR in Zeitlupe an und führe den Spielstand deines Matches.
+1 PlayBack Padel nimmt dein Padel-Match auf deinem iPhone oder iPad auf: Speichere den Spielzug per Geste, und die App erstellt das Video deiner besten Punkte. Mit VAR in Zeitlupe, mehreren Kameras und Spielstand.
 2 Zum Inhalt springen
 5 Gesten
 6 Funktionen
 7 Laden
-8 REPLAY & LIVE-SPIELSTAND
+8 NIMM DEIN MATCH AUF UND FASSE ES ZUSAMMEN
 9 Dein bester Punkt.<br><em>Eine Geste</em> speichert ihn.
-10 PlayBack Padel verwandelt ein iPhone in eine Replay-Kamera und eine Live-Anzeigetafel für dein Match.
+10 PlayBack Padel nimmt dein Match auf und erstellt von selbst das Video deiner besten Spielzüge, in Zeitlupe und bereit zum Teilen.
 11 Gratis laden
 12 So funktioniert es
 13 Beispiel-Anzeigetafel: Team A 40, Team B 30, Spielzug gesichert
 14 TEAM A
 15 TEAM B
 16 SPIELZUG GESICHERT
-17 Kein Zubehör, keine Abos. Nur das Match, deine besten Spielzüge und ein Spielstand, den alle sehen können.
+17 Kein Zubehör, keine Abos. Eine Geste speichert jeden Spielzug, und die App erstellt von selbst das Video der besten.
 18 STEUERE DAS MATCH
 19 Die Gesten versteht man<br>auf einen Blick.
 20 Punkt Team A
@@ -51,7 +51,7 @@
 52 Lange Rally (Beta)
 53 Sie beobachtet den Platz mit der Kamera und speichert nur Rallys von mehr als 8 Sekunden, vom Anfang bis zum Ende.
 54 Highlight des Matches oder des Tages
-55 Ein Video von bis zu 1 Minute mit deinen besten Spielzügen, nur mit echtem Spiel (die App hört auf die Schläge) und jeweils mit ihrem Spielstand. Das des Tages sieht alle deine Matches durch. Es bleibt in der App gesichert, zum Ansehen oder Teilen.
+55 Ein Video deiner besten Spielzüge, von 30 Sekunden bis 5 Minuten, jeder mit seinem Spielstand. Jeder Spielzug endet in Zeitlupe auf dem Schlag, der den Punkt entscheidet, blendet in den nächsten über und bekommt eine Einblendung (Satzball, Ballwechsel von 14 s). Nur echtes Spiel kommt hinein: Die App hört die Schläge. Es bleibt mit dem Logo in der App gespeichert, zum Ansehen oder Teilen.
 56 Deine Spielzüge bleiben auf deinem Gerät
 57 Keine Konten, Server oder Werbung. Videos verlassen das Gerät nie, außer du teilst sie.
 58 SO FUNKTIONIERT ES
