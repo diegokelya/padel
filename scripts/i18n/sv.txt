@@ -1,19 +1,19 @@
 0 PlayBack Padel — Din bästa poäng, alltid redo
-1 PlayBack Padel gör din iPhone eller iPad till en replaykamera för padel: spara klippet med en gest, granska det i VAR i slow motion och håll koll på matchens ställning.
+1 PlayBack Padel spelar in din padelmatch på iPhone eller iPad: spara klippet med en gest så skapar appen videon med dina bästa poäng. Med VAR i slow motion, flera kameror och ställning.
 2 Hoppa till innehållet
 5 Gester
 6 Funktioner
 7 Ladda ner
-8 REPLAY OCH LIVE-STÄLLNING
+8 SPELA IN OCH SAMMANFATTA DIN MATCH
 9 Din bästa poäng.<br><em>En gest</em> sparar den.
-10 PlayBack Padel gör en iPhone till en replaykamera och en live-resultattavla för din match.
+10 PlayBack Padel spelar in din match och skapar själv videon med dina bästa klipp, i slow motion och redo att dela.
 11 Ladda ner gratis
 12 Se hur det fungerar
 13 Exempel på resultattavla: Lag A 40, Lag B 30, klipp sparat
 14 LAG A
 15 LAG B
 16 KLIPP SPARAT
-17 Inga tillbehör eller prenumerationer. Bara matchen, dina bästa klipp och en ställning som alla kan se.
+17 Inga tillbehör eller prenumerationer. En gest sparar varje klipp och appen skapar själv videon med de bästa.
 18 STYR MATCHEN
 19 Gesterna förstås<br>med en blick.
 20 Poäng lag A
@@ -51,7 +51,7 @@
 52 Långt rally (beta)
 53 Den tittar på banan med kameran och sparar bara rallyn på mer än 8 sekunder, från start till slut.
 54 Höjdpunkter från matchen eller dagen
-55 En video på upp till 1 minut med dina bästa klipp, bara med riktigt spel (appen lyssnar efter slagen) och vart och ett med sin ställning. Den för dagen går igenom alla dina matcher. Den sparas i appen så att du kan titta på den eller dela den.
+55 En video med dina bästa klipp, från 30 sekunder till 5 minuter, vart och ett med sin ställning. Varje klipp slutar i slow motion på slaget som avgör poängen, tonar över i nästa och får en text (setboll, bollväxling på 14 s). Bara riktigt spel kommer med: appen lyssnar efter slagen. Den sparas i appen, med loggan, att titta på eller dela.
 56 Dina klipp stannar på din enhet
 57 Inga konton, servrar eller annonser. Videor lämnar aldrig enheten om du inte delar dem.
 58 SE HUR DET FUNGERAR

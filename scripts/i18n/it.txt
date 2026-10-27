@@ -1,19 +1,19 @@
 0 PlayBack Padel — Il tuo miglior punto, sempre pronto
-1 PlayBack Padel trasforma il tuo iPhone o iPad in una fotocamera per i replay di padel: salva la giocata con un gesto, rivedila al rallentatore con il VAR e tieni il punteggio della partita.
+1 PlayBack Padel registra la tua partita di padel sul tuo iPhone o iPad: salva la giocata con un gesto e l'app crea il video con i tuoi punti migliori. Include VAR al rallentatore, più fotocamere e punteggio.
 2 Vai al contenuto
 5 Gesti
 6 Funzioni
 7 Scarica
-8 REPLAY E PUNTEGGIO DAL VIVO
+8 REGISTRA E RIASSUMI LA TUA PARTITA
 9 Il tuo miglior punto.<br><em>Un gesto</em> per salvarlo.
-10 PlayBack Padel trasforma un iPhone in una fotocamera per i replay e in un tabellone dal vivo per la tua partita.
+10 PlayBack Padel registra la tua partita e crea da solo il video con le tue giocate migliori, al rallentatore e pronto da condividere.
 11 Scarica gratis
 12 Scopri come funziona
 13 Tabellone di esempio: Squadra A 40, Squadra B 30, giocata salvata
 14 SQUADRA A
 15 SQUADRA B
 16 GIOCATA SALVATA
-17 Niente accessori né abbonamenti. Solo la partita, le tue giocate migliori e un punteggio che tutti possono vedere.
+17 Niente accessori né abbonamenti. Un gesto salva ogni giocata e l'app crea da sola il video con le migliori.
 18 CONTROLLA LA PARTITA
 19 I gesti si capiscono<br>a colpo d'occhio.
 20 Punto squadra A
@@ -51,7 +51,7 @@
 52 Rally lungo (beta)
 53 Guarda il campo con la fotocamera e salva solo i rally più lunghi di 8 secondi, dall'inizio alla fine.
 54 Highlight della partita o del giorno
-55 Un video fino a 1 minuto con le tue giocate migliori, solo con gioco vero (l'app ascolta i colpi) e ognuna con il suo punteggio. Quello del giorno rivede tutte le tue partite. Resta salvato nell'app per guardarlo o condividerlo.
+55 Un video con le tue giocate migliori, da 30 secondi a 5 minuti, ognuna con il suo punteggio. Ogni giocata finisce al rallentatore sul colpo che decide il punto, si dissolve nella successiva e ha una didascalia (set point, rally di 14 s). Entra solo il gioco vero: l'app ascolta i colpi. Resta salvato nell'app, con il logo, da guardare o condividere.
 56 Le tue giocate restano sul tuo dispositivo
 57 Niente account, server o pubblicità. I video non lasciano mai il dispositivo, a meno che tu non li condivida.
 58 SCOPRI COME FUNZIONA

@@ -1,19 +1,19 @@
 0 PlayBack Padel — Je beste punt, altijd klaar
-1 PlayBack Padel verandert je iPhone of iPad in een replaycamera voor padel: bewaar het fragment met een gebaar, bekijk het in VAR in slow motion en houd de stand van je wedstrijd bij.
+1 PlayBack Padel neemt je padelwedstrijd op met je iPhone of iPad: bewaar het fragment met een gebaar en de app maakt de video van je beste punten. Met VAR in slow motion, meerdere camera's en stand.
 2 Naar de inhoud
 5 Gebaren
 6 Functies
 7 Download
-8 REPLAY EN LIVE STAND
+8 NEEM JE WEDSTRIJD OP EN VAT HEM SAMEN
 9 Je beste punt.<br><em>Eén gebaar</em> bewaart het.
-10 PlayBack Padel verandert een iPhone in een replaycamera en live scorebord voor je wedstrijd.
+10 PlayBack Padel neemt je wedstrijd op en maakt zelf de video van je beste fragmenten, in slow motion en klaar om te delen.
 11 Gratis downloaden
 12 Zie hoe het werkt
 13 Voorbeeld van het scorebord: Team A 40, Team B 30, fragment bewaard
 14 TEAM A
 15 TEAM B
 16 FRAGMENT BEWAARD
-17 Geen accessoires of abonnementen. Alleen de wedstrijd, je beste fragmenten en een stand die iedereen kan zien.
+17 Geen accessoires of abonnementen. Eén gebaar bewaart elk fragment en de app maakt zelf de video van de beste.
 18 BESTUUR DE WEDSTRIJD
 19 De gebaren begrijp je<br>in één oogopslag.
 20 Punt team A
@@ -51,7 +51,7 @@
 52 Lange rally (bèta)
 53 Hij bekijkt de baan met de camera en bewaart alleen rally's van meer dan 8 seconden, van begin tot eind.
 54 Highlight van de wedstrijd of de dag
-55 Een video van maximaal 1 minuut met je beste fragmenten, alleen met echt spel (de app luistert naar de slagen) en elk met zijn stand. Die van de dag bekijkt al je wedstrijden. Hij blijft bewaard in de app om te bekijken of te delen.
+55 Een video van je beste fragmenten, van 30 seconden tot 5 minuten, elk met zijn stand. Elk fragment eindigt in slow motion op de slag die het punt beslist, vloeit over in het volgende en krijgt een tekst (setpunt, rally van 14 s). Alleen echt spel komt erin: de app luistert naar de slagen. Het blijft met het logo in de app bewaard, om te bekijken of te delen.
 56 Je fragmenten blijven op je apparaat
 57 Geen accounts, servers of advertenties. Video's verlaten het apparaat nooit, tenzij je ze deelt.
 58 ZIE HOE HET WERKT
